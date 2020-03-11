@@ -14,7 +14,7 @@ euclides.readcsv=async (url)=>{
   euclides.url=url
   euclides.txt = await (await fetch(url)).text()
   euclides.arr = euclides.txt.split(/\n/g).slice(1).map(x=>x.split(',').map(v=>parseFloat(v)))
-  if(isNaN(euclides.arr.slice(-1)[0][0])){ // trailing blank
+  if((euclides.arr.slice(-1)[0].length==1)&isNaN(euclides.arr.slice(-1)[0][0])){ // trailing blank
     euclides.arr=euclides.arr.slice(0,-1)
   }
   // clean non-numeric values
