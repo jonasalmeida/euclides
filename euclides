@@ -1,7 +1,0 @@
-console.log('euclides.js loaded')
-
-euclides={}
-
-if(typeof(define)!='undefined'){
-  define(euclides)
-}
