@@ -1,8 +1,5 @@
 console.log('euclides.js loaded')
 
-s = document.createElement('script')
-
-
 euclides={}
 
 euclides.readcsv=async (url)=>{
