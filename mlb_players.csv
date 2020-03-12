@@ -1,1036 +1,1035 @@
-"Name", "Team", "Position", "Height(inches)", "Weight(lbs)", "Age"
-"Adam Donachie", "BAL", "Catcher", 74, 180, 22.99
-"Paul Bako", "BAL", "Catcher", 74, 215, 34.69
-"Ramon Hernandez", "BAL", "Catcher", 72, 210, 30.78
-"Kevin Millar", "BAL", "First Baseman", 72, 210, 35.43
-"Chris Gomez", "BAL", "First Baseman", 73, 188, 35.71
-"Brian Roberts", "BAL", "Second Baseman", 69, 176, 29.39
-"Miguel Tejada", "BAL", "Shortstop", 69, 209, 30.77
-"Melvin Mora", "BAL", "Third Baseman", 71, 200, 35.07
-"Aubrey Huff", "BAL", "Third Baseman", 76, 231, 30.19
-"Adam Stern", "BAL", "Outfielder", 71, 180, 27.05
-"Jeff Fiorentino", "BAL", "Outfielder", 73, 188, 23.88
-"Freddie Bynum", "BAL", "Outfielder", 73, 180, 26.96
-"Nick Markakis", "BAL", "Outfielder", 74, 185, 23.29
-"Brandon Fahey", "BAL", "Outfielder", 74, 160, 26.11
-"Corey Patterson", "BAL", "Outfielder", 69, 180, 27.55
-"Jay Payton", "BAL", "Outfielder", 70, 185, 34.27
-"Jay Gibbons", "BAL", "Designated Hitter", 72, 197, 30
-"Erik Bedard", "BAL", "Starting Pitcher", 73, 189, 27.99
-"Hayden Penn", "BAL", "Starting Pitcher", 75, 185, 22.38
-"Adam Loewen", "BAL", "Starting Pitcher", 78, 219, 22.89
-"Daniel Cabrera", "BAL", "Starting Pitcher", 79, 230, 25.76
-"Steve Trachsel", "BAL", "Starting Pitcher", 76, 205, 36.33
-"Jaret Wright", "BAL", "Starting Pitcher", 74, 230, 31.17
-"Kris Benson", "BAL", "Starting Pitcher", 76, 195, 32.31
-"Scott Williamson", "BAL", "Relief Pitcher", 72, 180, 31.03
-"John Parrish", "BAL", "Relief Pitcher", 71, 192, 29.26
-"Danys Baez", "BAL", "Relief Pitcher", 75, 225, 29.47
-"Chad Bradford", "BAL", "Relief Pitcher", 77, 203, 32.46
-"Jamie Walker", "BAL", "Relief Pitcher", 74, 195, 35.67
-"Brian Burres", "BAL", "Relief Pitcher", 73, 182, 25.89
-"Kurt Birkins", "BAL", "Relief Pitcher", 74, 188, 26.55
-"James Hoey", "BAL", "Relief Pitcher", 78, 200, 24.17
-"Sendy Rleal", "BAL", "Relief Pitcher", 73, 180, 26.69
-"Chris Ray", "BAL", "Relief Pitcher", 75, 200, 25.13
-"Jeremy Guthrie", "BAL", "Relief Pitcher", 73, 200, 27.9
-"A.J. Pierzynski", "CWS", "Catcher", 75, 245, 30.17
-"Toby Hall", "CWS", "Catcher", 75, 240, 31.36
-"Paul Konerko", "CWS", "First Baseman", 74, 215, 30.99
-"Tadahito Iguchi", "CWS", "Second Baseman", 69, 185, 32.24
-"Juan Uribe", "CWS", "Shortstop", 71, 175, 27.61
-"Alex Cintron", "CWS", "Shortstop", 74, 199, 28.2
-"Joe Crede", "CWS", "Third Baseman", 73, 200, 28.85
-"Josh Fields", "CWS", "Third Baseman", 73, 215, 24.21
-"Ryan Sweeney", "CWS", "Outfielder", 76, 200, 22.02
-"Brian N. Anderson", "CWS", "Outfielder", 74, 205, 24.97
-"Luis Terrero", "CWS", "Outfielder", 74, 206, 26.78
-"Pablo Ozuna", "CWS", "Outfielder", 70, 186, 32.51
-"Scott Podsednik", "CWS", "Outfielder", 72, 188, 30.95
-"Jermaine Dye", "CWS", "Outfielder", 77, 220, 33.09
-"Darin Erstad", "CWS", "Outfielder", 74, 210, 32.74
-"Rob Mackowiak", "CWS", "Outfielder", 70, 195, 30.69
-"Jim Thome", "CWS", "Designated Hitter", 76, 244, 36.51
-"Jerry Owens", "CWS", "Designated Hitter", 75, 195, 26.03
-"Charlie Haeger", "CWS", "Starting Pitcher", 73, 200, 23.45
-"Heath Phillips", "CWS", "Starting Pitcher", 75, 200, 24.94
-"Gavin Floyd", "CWS", "Starting Pitcher", 76, 212, 24.09
-"Jose Contreras", "CWS", "Starting Pitcher", 76, 224, 35.23
-"Jon Garland", "CWS", "Starting Pitcher", 78, 210, 27.43
-"Javier Vazquez", "CWS", "Starting Pitcher", 74, 205, 30.6
-"Mark Buehrle", "CWS", "Starting Pitcher", 74, 220, 27.94
-"Mike MacDougal", "CWS", "Relief Pitcher", 76, 195, 29.99
-"David Aardsma", "CWS", "Relief Pitcher", 77, 200, 25.17
-"Andrew Sisco", "CWS", "Relief Pitcher", 81, 260, 24.13
-"Matt Thornton", "CWS", "Relief Pitcher", 78, 228, 30.46
-"Bobby Jenks", "CWS", "Relief Pitcher", 75, 270, 25.96
-"Boone Logan", "CWS", "Relief Pitcher", 77, 200, 22.55
-"Sean Tracey", "CWS", "Relief Pitcher", 75, 210, 26.29
-"Nick Masset", "CWS", "Relief Pitcher", 76, 190, 24.79
-"Jose Molina", "ANA", "Catcher", 74, 220, 31.74
-"Jeff Mathis", "ANA", "Catcher", 72, 180, 23.92
-"Mike Napoli", "ANA", "Catcher", 72, 205, 25.33
-"Casey Kotchman", "ANA", "First Baseman", 75, 210, 24.02
-"Kendry Morales", "ANA", "First Baseman", 73, 220, 23.7
-"Shea Hillenbrand", "ANA", "First Baseman", 73, 211, 31.59
-"Robb Quinlan", "ANA", "First Baseman", 73, 200, 29.95
-"Howie Kendrick", "ANA", "First Baseman", 70, 180, 23.64
-"Orlando Cabrera", "ANA", "Shortstop", 70, 190, 32.33
-"Erick Aybar", "ANA", "Shortstop", 70, 170, 23.13
-"Dallas McPherson", "ANA", "Third Baseman", 76, 230, 26.6
-"Maicer Izturis", "ANA", "Third Baseman", 68, 155, 26.46
-"Reggie Willits", "ANA", "Outfielder", 71, 185, 25.75
-"Tommy Murphy", "ANA", "Outfielder", 72, 185, 27.51
-"Terry Evans", "ANA", "Outfielder", 75, 200, 25.11
-"Gary Matthews Jr.", "ANA", "Outfielder", 75, 225, 32.51
-"Garret Anderson", "ANA", "Outfielder", 75, 225, 34.67
-"Vladimir Guerrero", "ANA", "Outfielder", 75, 220, 31.06
-"Chone Figgins", "ANA", "Outfielder", 68, 160, 29.1
-"Juan Rivera", "ANA", "Outfielder", 74, 205, 28.66
-"John Lackey", "ANA", "Starting Pitcher", 78, 235, 28.35
-"Bartolo Colon", "ANA", "Starting Pitcher", 71, 250, 33.77
-"Kelvim Escobar", "ANA", "Starting Pitcher", 73, 210, 30.89
-"Dustin Moseley", "ANA", "Starting Pitcher", 76, 190, 37.74
-"Ervin Santana", "ANA", "Starting Pitcher", 74, 160, 24.14
-"Joe Saunders", "ANA", "Starting Pitcher", 74, 200, 25.71
-"Jered Weaver", "ANA", "Starting Pitcher", 79, 205, 24.41
-"Chris Resop", "ANA", "Relief Pitcher", 75, 222, 24.32
-"Phil Seibel", "ANA", "Relief Pitcher", 73, 195, 28.09
-"Justin Speier", "ANA", "Relief Pitcher", 76, 205, 33.31
-"Darren Oliver", "ANA", "Relief Pitcher", 74, 220, 36.4
-"Hector Carrasco", "ANA", "Relief Pitcher", 74, 220, 37.36
-"Scot Shields", "ANA", "Relief Pitcher", 73, 170, 31.61
-"Francisco Rodriguez", "ANA", "Relief Pitcher", 72, 185, 25.14
-"Greg Jones", "ANA", "Relief Pitcher", 74, 195, 30.29
-"Doug Mirabelli", "BOS", "Catcher", 73, 220, 36.37
-"Jason Varitek", "BOS", "Catcher", 74, 230, 34.89
-"George Kottaras", "BOS", "Catcher", 72, 180, 23.79
-"Kevin Youkilis", "BOS", "First Baseman", 73, 220, 27.96
-"Dustin Pedroia", "BOS", "Second Baseman", 69, 180, 23.54
-"Alex Cora", "BOS", "Shortstop", 72, 180, 31.37
-"Julio Lugo", "BOS", "Shortstop", 73, 170, 31.29
-"Mike Lowell", "BOS", "Third Baseman", 75, 210, 33.01
-"Wily Mo Pe?a", "BOS", "Outfielder", 75, 215, 25.1
-"J.D. Drew", "BOS", "Outfielder", 73, 200, 31.28
-"Manny Ramirez", "BOS", "Outfielder", 72, 213, 34.75
-"Brandon Moss", "BOS", "Outfielder", 72, 180, 23.46
-"David Murphy", "BOS", "Outfielder", 76, 192, 25.37
-"Eric Hinske", "BOS", "Outfielder", 74, 235, 29.57
-"Coco Crisp", "BOS", "Outfielder", 72, 185, 27.33
-"David Ortiz", "BOS", "Designated Hitter", 76, 230, 31.28
-"Curt Schilling", "BOS", "Starting Pitcher", 77, 235, 40.29
-"Tim Wakefield", "BOS", "Starting Pitcher", 74, 210, 40.58
-"Josh Beckett", "BOS", "Starting Pitcher", 77, 222, 26.79
-"Matt Clement", "BOS", "Starting Pitcher", 75, 210, 32.55
-"Jonathan Papelbon", "BOS", "Starting Pitcher", 76, 230, 26.27
-"Kyle Snyder", "BOS", "Starting Pitcher", 80, 220, 29.47
-"Devern Hansack", "BOS", "Starting Pitcher", 74, 180, 29.07
-"Jon Lester", "BOS", "Starting Pitcher", 74, 190, 23.15
-"Kason Gabbard", "BOS", "Starting Pitcher", 75, 200, 24.9
-"Craig Hansen", "BOS", "Relief Pitcher", 78, 210, 23.29
-"Hideki Okajima", "BOS", "Relief Pitcher", 73, 194, 31.18
-"Craig Breslow", "BOS", "Relief Pitcher", 73, 180, 26.56
-"Manny Delcarmen", "BOS", "Relief Pitcher", 74, 190, 25.03
-"Brendan Donnelly", "BOS", "Relief Pitcher", 75, 240, 35.66
-"Javier Lopez", "BOS", "Relief Pitcher", 76, 200, 29.64
-"J.C. Romero", "BOS", "Relief Pitcher", 71, 198, 30.74
-"Joel Pineiro", "BOS", "Relief Pitcher", 73, 200, 28.43
-"Julian Tavarez", "BOS", "Relief Pitcher", 74, 195, 33.77
-"Mike Timlin", "BOS", "Relief Pitcher", 76, 210, 40.97
-"Nick DeBarr", "BOS", "Relief Pitcher", 76, 220, 23.52
-"Victor Martinez", "CLE", "Catcher", 74, 190, 28.19
-"Kelly Shoppach", "CLE", "Catcher", 73, 210, 26.84
-"Ryan Garko", "CLE", "First Baseman", 74, 225, 26.16
-"Joe Inglett", "CLE", "Second Baseman", 70, 180, 28.67
-"Josh Barfield", "CLE", "Second Baseman", 72, 185, 24.2
-"Hector Luna", "CLE", "Second Baseman", 73, 170, 27.08
-"Jhonny Peralta", "CLE", "Shortstop", 73, 185, 24.76
-"Andy Marte", "CLE", "Third Baseman", 73, 185, 23.36
-"Ben Francisco", "CLE", "Outfielder", 73, 180, 25.35
-"Shin-Soo Choo", "CLE", "Outfielder", 71, 178, 24.63
-"Franklin Gutierrez", "CLE", "Outfielder", 74, 175, 24.02
-"Grady Sizemore", "CLE", "Outfielder", 74, 200, 24.58
-"Jason Michaels", "CLE", "Outfielder", 72, 204, 30.82
-"Trot Nixon", "CLE", "Outfielder", 74, 211, 32.89
-"David Dellucci", "CLE", "Outfielder", 71, 190, 33.33
-"Casey Blake", "CLE", "Outfielder", 74, 210, 33.52
-"Travis Hafner", "CLE", "Designated Hitter", 75, 240, 29.74
-"Paul Byrd", "CLE", "Starting Pitcher", 73, 190, 36.24
-"Cliff Lee", "CLE", "Starting Pitcher", 75, 190, 28.5
-"Jake Westbrook", "CLE", "Starting Pitcher", 75, 185, 29.42
-"C.C. Sabathia", "CLE", "Starting Pitcher", 79, 290, 26.61
-"Jeremy Sowers", "CLE", "Starting Pitcher", 73, 175, 23.79
-"Rafael Perez", "CLE", "Relief Pitcher", 75, 185, 24.96
-"Brian Slocum", "CLE", "Relief Pitcher", 76, 200, 25.93
-"Edward Mujica", "CLE", "Relief Pitcher", 74, 220, 22.81
-"Fernando Cabrera", "CLE", "Relief Pitcher", 76, 170, 25.29
-"Tom Mastny", "CLE", "Relief Pitcher", 78, 220, 26.07
-"Juan Lara", "CLE", "Relief Pitcher", 74, 190, 26.09
-"Fausto Carmona", "CLE", "Relief Pitcher", 76, 220, 23.23
-"Aaron Fultz", "CLE", "Relief Pitcher", 72, 205, 33.49
-"Rafael Betancourt", "CLE", "Relief Pitcher", 74, 200, 31.84
-"Roberto Hernandez", "CLE", "Relief Pitcher", 76, 250, 42.3
-"Joe Borowski", "CLE", "Relief Pitcher", 74, 225, 35.82
-"Matt Miller", "CLE", "Relief Pitcher", 75, 215, 35.27
-"Jason Davis", "CLE", "Relief Pitcher", 78, 210, 26.81
-"Mike Piazza", "OAK", "Catcher", 75, 215, 38.49
-"Jason Kendall", "OAK", "Catcher", 72, 195, 32.68
-"Adam Melhuse", "OAK", "Catcher", 74, 200, 34.93
-"Nick Swisher", "OAK", "First Baseman", 72, 194, 26.26
-"Dan Johnson", "OAK", "First Baseman", 74, 220, 27.56
-"Donald Murphy", "OAK", "Second Baseman", 70, 180, 23.98
-"Mark Ellis", "OAK", "Second Baseman", 71, 180, 29.73
-"Marco Scutaro", "OAK", "Shortstop", 70, 170, 31.33
-"Bobby Crosby", "OAK", "Shortstop", 75, 195, 27.13
-"Mark Kiger", "OAK", "Shortstop", 71, 180, 26.75
-"Antonio Perez", "OAK", "Third Baseman", 71, 170, 27.09
-"Eric Chavez", "OAK", "Third Baseman", 73, 206, 29.23
-"Milton Bradley", "OAK", "Outfielder", 72, 205, 28.88
-"Shannon Stewart", "OAK", "Outfielder", 71, 200, 33.01
-"Bobby Kielty", "OAK", "Outfielder", 73, 225, 30.57
-"Mark Kotsay", "OAK", "Outfielder", 72, 201, 31.24
-"Ryan Goleski", "OAK", "Outfielder", 75, 225, 24.95
-"Jeremy Brown", "OAK", "Designated Hitter", 70, 226, 27.35
-"Jason Windsor", "OAK", "Starting Pitcher", 74, 233, 24.62
-"David Shafer", "OAK", "Starting Pitcher", 74, 180, 24.98
-"Joe Blanton", "OAK", "Starting Pitcher", 75, 225, 26.22
-"Brad Halsey", "OAK", "Starting Pitcher", 73, 180, 26.04
-"Dan Haren", "OAK", "Starting Pitcher", 77, 220, 26.45
-"Rich Harden", "OAK", "Starting Pitcher", 73, 180, 25.25
-"Joe Kennedy", "OAK", "Starting Pitcher", 76, 237, 27.77
-"Esteban Loaiza", "OAK", "Starting Pitcher", 75, 215, 35.16
-"Alan Embree", "OAK", "Relief Pitcher", 74, 190, 37.1
-"Jay Witasick", "OAK", "Relief Pitcher", 76, 235, 34.51
-"Justin Duchscherer", "OAK", "Relief Pitcher", 75, 190, 29.28
-"Kiko Calero", "OAK", "Relief Pitcher", 73, 180, 32.14
-"Chad Gaudin", "OAK", "Relief Pitcher", 71, 165, 23.94
-"Lenny DiNardo", "OAK", "Relief Pitcher", 76, 195, 27.45
-"Scott Dunn", "OAK", "Relief Pitcher", 75, 200, 28.77
-"Huston Street", "OAK", "Relief Pitcher", 72, 190, 23.58
-"Ron Flores", "OAK", "Relief Pitcher", 71, 190, 27.56
-"Jay Marshall", "OAK", "Relief Pitcher", 77, 185, 24.01
-"Marcus McBeth", "OAK", "Relief Pitcher", 73, 185, 26.52
-"Jorge Posada", "NYY", "Catcher", 74, 205, 35.54
-"Wil Nieves", "NYY", "Catcher", 71, 190, 29.43
-"Andy Phillips", "NYY", "First Baseman", 72, 205, 29.9
-"Doug Mientkiewicz", "NYY", "First Baseman", 74, 206, 32.7
-"Josh Phelps", "NYY", "First Baseman", 75, 220, 28.8
-"Miguel Cairo", "NYY", "Second Baseman", 73, 208, 32.82
-"Robinson Cano", "NYY", "Second Baseman", 72, 170, 24.36
-"Derek Jeter", "NYY", "Shortstop", 75, 195, 32.68
-"Alex Rodriguez", "NYY", "Third Baseman", 75, 210, 31.59
-"Johnny Damon", "NYY", "Outfielder", 74, 190, 33.32
-"Bobby Abreu", "NYY", "Outfielder", 72, 211, 32.97
-"Hideki Matsui", "NYY", "Outfielder", 74, 230, 32.72
-"Melky Cabrera", "NYY", "Outfielder", 71, 170, 22.55
-"Kevin Thompson", "NYY", "Outfielder", 70, 185, 27.45
-"Jason Giambi", "NYY", "Designated Hitter", 75, 230, 36.14
-"Mike Mussina", "NYY", "Starting Pitcher", 74, 185, 38.23
-"Carl Pavano", "NYY", "Starting Pitcher", 77, 241, 31.14
-"Andy Pettitte", "NYY", "Starting Pitcher", 77, 225, 34.71
-"Darrell Rasner", "NYY", "Starting Pitcher", 75, 210, 26.13
-"Jeff Karstens", "NYY", "Starting Pitcher", 75, 175, 24.43
-"Humberto Sanchez", "NYY", "Starting Pitcher", 78, 230, 23.76
-"Chien-Ming Wang", "NYY", "Starting Pitcher", 75, 200, 26.92
-"Sean Henn", "NYY", "Relief Pitcher", 76, 215, 25.85
-"Scott Proctor", "NYY", "Relief Pitcher", 73, 198, 30.16
-"Brian Bruney", "NYY", "Relief Pitcher", 75, 226, 25.03
-"Chris Britton", "NYY", "Relief Pitcher", 75, 278, 24.21
-"T.J. Beam", "NYY", "Relief Pitcher", 79, 215, 26.51
-"Jose Veras", "NYY", "Relief Pitcher", 77, 230, 26.36
-"Kyle Farnsworth", "NYY", "Relief Pitcher", 76, 240, 30.88
-"Luis Vizcaino", "NYY", "Relief Pitcher", 71, 184, 32.57
-"Mike Myers", "NYY", "Relief Pitcher", 75, 219, 37.68
-"Mariano Rivera", "NYY", "Relief Pitcher", 74, 170, 37.25
-"Ivan Rodriguez", "DET", "Catcher", 69, 218, 35.25
-"Vance Wilson", "DET", "Catcher", 71, 190, 33.95
-"Sean Casey", "DET", "First Baseman", 76, 225, 32.66
-"Chris Shelton", "DET", "First Baseman", 72, 220, 26.68
-"Omar Infante", "DET", "Second Baseman", 72, 176, 25.18
-"Placido Polanco", "DET", "Second Baseman", 70, 190, 31.39
-"Neifi Perez", "DET", "Second Baseman", 72, 197, 33.74
-"Carlos Guillen", "DET", "Shortstop", 73, 204, 31.42
-"Ramon Santiago", "DET", "Shortstop", 71, 167, 27.5
-"Tony Giarratano", "DET", "Shortstop", 72, 180, 24.25
-"Brandon Inge", "DET", "Third Baseman", 71, 195, 29.78
-"Craig Monroe", "DET", "Outfielder", 73, 220, 30
-"Magglio Ordo?ez", "DET", "Outfielder", 72, 215, 33.09
-"Curtis Granderson", "DET", "Outfielder", 73, 185, 25.96
-"Brent Clevlen", "DET", "Outfielder", 74, 190, 23.34
-"Marcus Thames", "DET", "Outfielder", 74, 205, 29.98
-"Gary Sheffield", "DET", "Outfielder", 72, 205, 38.28
-"Mike Rabelo", "DET", "Designated Hitter", 73, 200, 27.12
-"Zach Miner", "DET", "Starting Pitcher", 75, 200, 24.97
-"Jeremy Bonderman", "DET", "Starting Pitcher", 74, 210, 24.34
-"Nate Robertson", "DET", "Starting Pitcher", 74, 215, 29.49
-"Justin Verlander", "DET", "Starting Pitcher", 77, 200, 24.02
-"Virgil Vasquez", "DET", "Starting Pitcher", 75, 205, 24.73
-"Kenny Rogers", "DET", "Starting Pitcher", 73, 211, 42.3
-"Mike Maroth", "DET", "Starting Pitcher", 72, 190, 29.54
-"Fernando Rodney", "DET", "Relief Pitcher", 71, 208, 29.95
-"Chad Durbin", "DET", "Relief Pitcher", 74, 200, 29.24
-"Jason Grilli", "DET", "Relief Pitcher", 77, 210, 30.3
-"Jose Mesa", "DET", "Relief Pitcher", 75, 232, 40.77
-"Todd Jones", "DET", "Relief Pitcher", 75, 230, 38.85
-"Joel Zumaya", "DET", "Relief Pitcher", 75, 210, 22.31
-"Jordan Tata", "DET", "Relief Pitcher", 78, 220, 25.44
-"Andrew Miller", "DET", "Relief Pitcher", 78, 210, 21.78
-"Yorman Bazardo", "DET", "Relief Pitcher", 74, 202, 22.64
-"Wilfredo Ledezma", "DET", "Relief Pitcher", 76, 212, 26.11
-"Roman Colon", "DET", "Relief Pitcher", 78, 225, 27.55
-"Edward Campusano", "DET", "Relief Pitcher", 76, 170, 24.63
-"Rene Rivera", "SEA", "Catcher", 70, 190, 23.58
-"Kenji Johjima", "SEA", "Catcher", 72, 200, 30.73
-"Richie Sexson", "SEA", "First Baseman", 80, 237, 32.17
-"Ben Broussard", "SEA", "First Baseman", 74, 220, 30.43
-"Jose Lopez", "SEA", "Second Baseman", 74, 170, 23.27
-"Jose Vidro", "SEA", "Second Baseman", 71, 193, 32.51
-"Yuniesky Betancourt", "SEA", "Shortstop", 70, 190, 25.08
-"Oswaldo Navarro", "SEA", "Shortstop", 72, 150, 22.41
-"Adrian Beltre", "SEA", "Third Baseman", 71, 220, 27.9
-"Raul Ibanez", "SEA", "Outfielder", 74, 200, 34.74
-"Jose Guillen", "SEA", "Outfielder", 71, 190, 30.79
-"Jeremy Reed", "SEA", "Outfielder", 72, 185, 25.71
-"Willie Bloomquist", "SEA", "Outfielder", 71, 185, 29.26
-"Adam Jones", "SEA", "Outfielder", 74, 200, 21.58
-"Ichiro Suzuki", "SEA", "Outfielder", 69, 172, 33.36
-"Mike Morse", "SEA", "Outfielder", 76, 220, 24.94
-"Felix Hernandez", "SEA", "Starting Pitcher", 75, 225, 20.9
-"Ryan Feierabend", "SEA", "Starting Pitcher", 75, 190, 21.52
-"Sean White", "SEA", "Starting Pitcher", 76, 195, 25.85
-"Horacio Ramirez", "SEA", "Starting Pitcher", 73, 219, 27.27
-"Cha Baek", "SEA", "Starting Pitcher", 76, 190, 26.75
-"Miguel Batista", "SEA", "Starting Pitcher", 73, 197, 36.03
-"Jeff Weaver", "SEA", "Starting Pitcher", 77, 200, 30.52
-"Jarrod Washburn", "SEA", "Starting Pitcher", 73, 195, 32.55
-"George Sherrill", "SEA", "Relief Pitcher", 72, 210, 29.86
-"Julio Mateo", "SEA", "Relief Pitcher", 72, 177, 29.58
-"J.J. Putz", "SEA", "Relief Pitcher", 77, 220, 30.02
-"Chris Reitsma", "SEA", "Relief Pitcher", 77, 235, 29.16
-"Cesar Jimenez", "SEA", "Relief Pitcher", 71, 180, 22.3
-"Eric O'Flaherty", "SEA", "Relief Pitcher", 74, 195, 22.06
-"Jon Huber", "SEA", "Relief Pitcher", 74, 195, 25.65
-"Jake Woods", "SEA", "Relief Pitcher", 73, 190, 25.49
-"Sean Green", "SEA", "Relief Pitcher", 78, 230, 27.86
-"Mark Lowe", "SEA", "Relief Pitcher", 75, 190, 23.73
-"Josh Paul", "TB", "Catcher", 73, 200, 31.78
-"Dioner Navarro", "TB", "Catcher", 70, 190, 23.06
-"Shawn Riggans", "TB", "Catcher", 74, 190, 26.6
-"Ty Wigginton", "TB", "First Baseman", 72, 200, 29.39
-"Brendan Harris", "TB", "Second Baseman", 73, 200, 26.51
-"Jorge Cantu", "TB", "Second Baseman", 73, 184, 25.08
-"Ben Zobrist", "TB", "Shortstop", 75, 200, 25.76
-"B.J. Upton", "TB", "Third Baseman", 75, 180, 22.52
-"Carl Crawford", "TB", "Outfielder", 74, 219, 25.57
-"Rocco Baldelli", "TB", "Outfielder", 76, 187, 25.43
-"Greg Norton", "TB", "Outfielder", 73, 200, 34.65
-"Elijah Dukes", "TB", "Outfielder", 74, 220, 22.68
-"Delmon Young", "TB", "Outfielder", 75, 205, 21.46
-"Jonny Gomes", "TB", "Designated Hitter", 73, 205, 26.27
-"Edwin Jackson", "TB", "Starting Pitcher", 75, 190, 23.47
-"Scott Kazmir", "TB", "Starting Pitcher", 72, 170, 23.1
-"Casey Fossum", "TB", "Starting Pitcher", 73, 160, 29.14
-"Jae Seo", "TB", "Starting Pitcher", 73, 215, 29.77
-"J.P. Howell", "TB", "Starting Pitcher", 72, 175, 23.85
-"Tim Corcoran", "TB", "Starting Pitcher", 74, 205, 28.88
-"Jason Hammel", "TB", "Starting Pitcher", 78, 200, 24.49
-"James Shields", "TB", "Starting Pitcher", 76, 214, 25.19
-"Brian Stokes", "TB", "Starting Pitcher", 73, 200, 27.48
-"Juan Salas", "TB", "Relief Pitcher", 74, 190, 28.31
-"Jeff Ridgway", "TB", "Relief Pitcher", 75, 180, 26.54
-"Ruddy Lugo", "TB", "Relief Pitcher", 70, 205, 26.77
-"Jae-Kuk Ryu", "TB", "Relief Pitcher", 75, 220, 23.75
-"Chad Orvella", "TB", "Relief Pitcher", 71, 190, 26.41
-"Dan Miceli", "TB", "Relief Pitcher", 72, 215, 36.47
-"Seth McClung", "TB", "Relief Pitcher", 78, 235, 26.06
-"Jon Switzer", "TB", "Relief Pitcher", 75, 191, 27.55
-"Shawn Camp", "TB", "Relief Pitcher", 73, 200, 31.28
-"Scott Dohmann", "TB", "Relief Pitcher", 73, 181, 29.04
-"Jason LaRue", "KC", "Catcher", 71, 200, 32.95
-"John Buck", "KC", "Catcher", 75, 210, 26.65
-"Ryan Shealy", "KC", "First Baseman", 77, 240, 27.5
-"Ross Gload", "KC", "First Baseman", 72, 185, 30.9
-"Esteban German", "KC", "Second Baseman", 69, 165, 29.09
-"Mark Grudzielanek", "KC", "Second Baseman", 73, 190, 36.67
-"Angel Sanchez", "KC", "Second Baseman", 74, 185, 23.44
-"Angel Berroa", "KC", "Shortstop", 72, 175, 29.09
-"Andres Blanco", "KC", "Shortstop", 70, 155, 22.89
-"Mark Teahen", "KC", "Third Baseman", 75, 210, 25.48
-"Joey Gathright", "KC", "Outfielder", 70, 170, 25.84
-"David DeJesus", "KC", "Outfielder", 72, 175, 27.2
-"Shane Costa", "KC", "Outfielder", 72, 220, 25.22
-"Mitch Maier", "KC", "Outfielder", 74, 210, 24.67
-"Reggie Sanders", "KC", "Outfielder", 73, 205, 39.25
-"Emil Brown", "KC", "Outfielder", 74, 200, 32.17
-"Mike Sweeney", "KC", "Designated Hitter", 75, 225, 33.61
-"John Bale", "KC", "Starting Pitcher", 76, 205, 32.77
-"Luke Hudson", "KC", "Starting Pitcher", 75, 195, 29.83
-"Scott Elarton", "KC", "Starting Pitcher", 80, 240, 31.02
-"Odalis Perez", "KC", "Starting Pitcher", 72, 150, 29.73
-"Gil Meche", "KC", "Starting Pitcher", 75, 200, 28.48
-"Neal Musser", "KC", "Starting Pitcher", 73, 215, 26.51
-"Brian Bannister", "KC", "Starting Pitcher", 74, 202, 26
-"Zack Greinke", "KC", "Starting Pitcher", 74, 200, 23.36
-"Jorge De La Rosa", "KC", "Starting Pitcher", 73, 190, 25.9
-"Todd Wellemeyer", "KC", "Relief Pitcher", 75, 205, 28.5
-"Jimmy Gobble", "KC", "Relief Pitcher", 75, 190, 25.62
-"Joel Peralta", "KC", "Relief Pitcher", 71, 160, 30.94
-"Ryan Braun", "KC", "Relief Pitcher", 73, 215, 26.59
-"Joakim Soria", "KC", "Relief Pitcher", 75, 185, 22.78
-"Ken Ray", "KC", "Relief Pitcher", 74, 200, 32.26
-"David Riske", "KC", "Relief Pitcher", 74, 190, 30.35
-"Octavio Dotel", "KC", "Relief Pitcher", 72, 210, 33.26
-"Joe Nelson", "KC", "Relief Pitcher", 74, 185, 32.35
-"Gerald Laird", "TEX", "Catcher", 74, 220, 27.3
-"Miguel Ojeda", "TEX", "Catcher", 74, 190, 32.08
-"Guillermo Quiroz", "TEX", "Catcher", 73, 202, 25.25
-"Chris Stewart", "TEX", "Catcher", 76, 205, 25.03
-"Mark Teixeira", "TEX", "First Baseman", 75, 220, 26.89
-"Ian Kinsler", "TEX", "Second Baseman", 72, 175, 24.69
-"Joaquin Arias", "TEX", "Shortstop", 73, 160, 22.44
-"Michael Young", "TEX", "Shortstop", 73, 190, 30.36
-"Hank Blalock", "TEX", "Third Baseman", 73, 200, 26.27
-"Marlon Byrd", "TEX", "Outfielder", 72, 229, 29.5
-"Brad Wilkerson", "TEX", "Outfielder", 72, 206, 29.75
-"Sammy Sosa", "TEX", "Outfielder", 72, 220, 38.3
-"Kenny Lofton", "TEX", "Outfielder", 72, 180, 39.75
-"Frank Catalanotto", "TEX", "Outfielder", 71, 195, 32.84
-"Nelson Cruz", "TEX", "Outfielder", 75, 175, 26.66
-"Jason Botts", "TEX", "Designated Hitter", 77, 250, 26.6
-"Robinson Tejeda", "TEX", "Starting Pitcher", 75, 188, 24.94
-"John Rheinecker", "TEX", "Starting Pitcher", 74, 230, 27.76
-"Edinson Volquez", "TEX", "Starting Pitcher", 73, 190, 23.66
-"A.J. Murray", "TEX", "Starting Pitcher", 75, 200, 24.96
-"Brandon McCarthy", "TEX", "Starting Pitcher", 79, 190, 23.65
-"Vicente Padilla", "TEX", "Starting Pitcher", 74, 219, 29.42
-"Kevin Millwood", "TEX", "Starting Pitcher", 76, 235, 32.18
-"John Koronka", "TEX", "Starting Pitcher", 73, 180, 26.66
-"Frank Francisco", "TEX", "Relief Pitcher", 74, 180, 27.47
-"Francisco Cruceta", "TEX", "Relief Pitcher", 74, 180, 25.66
-"Akinori Otsuka", "TEX", "Relief Pitcher", 72, 200, 35.13
-"Eric Gagne", "TEX", "Relief Pitcher", 74, 234, 31.15
-"Ron Mahay", "TEX", "Relief Pitcher", 74, 185, 35.67
-"Joaquin Benoit", "TEX", "Relief Pitcher", 75, 220, 29.6
-"Rick Bauer", "TEX", "Relief Pitcher", 78, 223, 30.14
-"Josh Rupe", "TEX", "Relief Pitcher", 74, 200, 24.53
-"Wes Littleton", "TEX", "Relief Pitcher", 74, 210, 24.49
-"C.J. Wilson", "TEX", "Relief Pitcher", 74, 200, 26.28
-"Scott Feldman", "TEX", "Relief Pitcher", 77, 210, 24.06
-"Gregg Zaun", "TOR", "Catcher", 70, 190, 35.88
-"Jason Phillips", "TOR", "Catcher", 73, 177, 30.42
-"Lyle Overbay", "TOR", "First Baseman", 74, 227, 30.09
-"Russ Adams", "TOR", "Second Baseman", 73, 180, 26.5
-"Aaron Hill", "TOR", "Second Baseman", 71, 195, 24.94
-"Jason Smith", "TOR", "Second Baseman", 75, 199, 29.6
-"John McDonald", "TOR", "Shortstop", 71, 175, 32.43
-"Royce Clayton", "TOR", "Shortstop", 72, 185, 37.16
-"Troy Glaus", "TOR", "Third Baseman", 77, 240, 30.57
-"John Hattig", "TOR", "Third Baseman", 74, 210, 27.01
-"Reed Johnson", "TOR", "Outfielder", 70, 180, 30.23
-"Alex Rios", "TOR", "Outfielder", 77, 194, 26.03
-"Vernon Wells", "TOR", "Outfielder", 73, 225, 28.23
-"Frank Thomas", "TOR", "Designated Hitter", 77, 275, 38.76
-"Adam Lind", "TOR", "Designated Hitter", 74, 195, 23.62
-"Shaun Marcum", "TOR", "Starting Pitcher", 72, 180, 25.21
-"Casey Janssen", "TOR", "Starting Pitcher", 76, 205, 25.45
-"Gustavo Chacin", "TOR", "Starting Pitcher", 71, 193, 26.24
-"A.J. Burnett", "TOR", "Starting Pitcher", 76, 230, 30.15
-"Roy Halladay", "TOR", "Starting Pitcher", 78, 230, 29.8
-"John Thomson", "TOR", "Starting Pitcher", 75, 220, 33.41
-"Tomo Ohka", "TOR", "Starting Pitcher", 73, 200, 30.95
-"B.J. Ryan", "TOR", "Relief Pitcher", 78, 249, 31.17
-"Scott Downs", "TOR", "Relief Pitcher", 74, 190, 30.95
-"Brian Tallet", "TOR", "Relief Pitcher", 79, 208, 29.44
-"Matt Roney", "TOR", "Relief Pitcher", 75, 245, 27.14
-"Tracy Thorpe", "TOR", "Relief Pitcher", 76, 250, 26.21
-"Jean Machi", "TOR", "Relief Pitcher", 72, 160, 24.08
-"Brandon League", "TOR", "Relief Pitcher", 75, 192, 23.96
-"Dustin McGowan", "TOR", "Relief Pitcher", 75, 220, 24.94
-"Jason Frasor", "TOR", "Relief Pitcher", 70, 170, 29.56
-"Francisco Rosario", "TOR", "Relief Pitcher", 72, 197, 26.42
-"Davis Romero", "TOR", "Relief Pitcher", 70, 155, 23.92
-"Jeremy Accardo", "TOR", "Relief Pitcher", 74, 190, 25.23
-"Mike Redmond", "MIN", "Catcher", 71, 200, 35.82
-"Joe Mauer", "MIN", "Catcher", 76, 220, 23.87
-"Chris Heintz", "MIN", "Catcher", 73, 210, 32.57
-"Justin Morneau", "MIN", "First Baseman", 76, 228, 25.79
-"Luis Castillo", "MIN", "Second Baseman", 71, 190, 31.47
-"Alexi Casilla", "MIN", "Second Baseman", 69, 160, 22.61
-"Alejandro Machado", "MIN", "Second Baseman", 72, 184, 24.85
-"Jason Bartlett", "MIN", "Shortstop", 72, 180, 27.33
-"Luis Rodriguez", "MIN", "Third Baseman", 69, 180, 26.67
-"Jeff Cirillo", "MIN", "Third Baseman", 73, 200, 37.43
-"Nick Punto", "MIN", "Third Baseman", 69, 176, 29.31
-"Jason Tyner", "MIN", "Outfielder", 73, 160, 29.85
-"Michael Cuddyer", "MIN", "Outfielder", 74, 222, 27.93
-"Torii Hunter", "MIN", "Outfielder", 74, 211, 31.62
-"Lew Ford", "MIN", "Outfielder", 72, 195, 30.55
-"Jason Kubel", "MIN", "Outfielder", 71, 200, 24.77
-"Josh Rabe", "MIN", "Designated Hitter", 74, 210, 28.38
-"Rondell White", "MIN", "Designated Hitter", 73, 225, 35.02
-"Ramon Ortiz", "MIN", "Starting Pitcher", 72, 175, 33.77
-"Johan Santana", "MIN", "Starting Pitcher", 72, 206, 27.97
-"Carlos Silva", "MIN", "Starting Pitcher", 76, 240, 27.85
-"Matt Garza", "MIN", "Starting Pitcher", 76, 185, 23.26
-"Boof Bonser", "MIN", "Starting Pitcher", 76, 260, 25.38
-"Francisco Liriano", "MIN", "Starting Pitcher", 74, 185, 23.35
-"Scott Baker", "MIN", "Starting Pitcher", 76, 221, 25.45
-"Pat Neshek", "MIN", "Relief Pitcher", 75, 205, 26.49
-"Glen Perkins", "MIN", "Relief Pitcher", 71, 200, 24
-"Julio DePaula", "MIN", "Relief Pitcher", 72, 170, 24.16
-"Juan Rincon", "MIN", "Relief Pitcher", 71, 201, 28.1
-"Jesse Crain", "MIN", "Relief Pitcher", 73, 205, 25.65
-"Matt Guerrier", "MIN", "Relief Pitcher", 75, 185, 28.58
-"Joe Nathan", "MIN", "Relief Pitcher", 76, 205, 32.27
-"Dennys Reyes", "MIN", "Relief Pitcher", 75, 245, 29.86
-"Brayan Pe?a", "ATL", "Catcher", 71, 220, 25.14
-"Brian McCann", "ATL", "Catcher", 75, 210, 23.03
-"Craig Wilson", "ATL", "First Baseman", 74, 220, 30.25
-"Chris Woodward", "ATL", "Second Baseman", 72, 185, 30.67
-"Pete Orr", "ATL", "Second Baseman", 73, 175, 27.73
-"Martin Prado", "ATL", "Second Baseman", 73, 170, 23.34
-"Tony Pe?a", "ATL", "Shortstop", 73, 180, 25.94
-"Edgar Renteria", "ATL", "Shortstop", 73, 200, 31.56
-"Chipper Jones", "ATL", "Third Baseman", 76, 210, 34.85
-"Willy Aybar", "ATL", "Third Baseman", 72, 175, 23.98
-"Jeff Francoeur", "ATL", "Outfielder", 76, 220, 23.14
-"Matt Diaz", "ATL", "Outfielder", 73, 206, 28.99
-"Kelly Johnson", "ATL", "Outfielder", 73, 180, 25.02
-"Andruw Jones", "ATL", "Outfielder", 73, 210, 29.85
-"Ryan Langerhans", "ATL", "Outfielder", 75, 195, 27.03
-"Scott Thorman", "ATL", "Outfielder", 75, 200, 25.15
-"T.J. Bohn", "ATL", "Outfielder", 77, 200, 27.12
-"Tim Hudson", "ATL", "Starting Pitcher", 73, 164, 31.63
-"Jonathan Johnson", "ATL", "Starting Pitcher", 72, 180, 32.62
-"John Smoltz", "ATL", "Starting Pitcher", 75, 220, 39.79
-"Mike Hampton", "ATL", "Starting Pitcher", 70, 195, 34.47
-"Kyle Davies", "ATL", "Starting Pitcher", 74, 205, 23.47
-"Chuck James", "ATL", "Starting Pitcher", 72, 170, 25.31
-"Phil Stockman", "ATL", "Relief Pitcher", 80, 240, 27.1
-"Macay McBride", "ATL", "Relief Pitcher", 71, 210, 24.35
-"Joey Devine", "ATL", "Relief Pitcher", 71, 195, 23.45
-"Peter Moylan", "ATL", "Relief Pitcher", 74, 200, 28.24
-"Mike Gonzalez", "ATL", "Relief Pitcher", 74, 205, 28.77
-"Lance Cormier", "ATL", "Relief Pitcher", 73, 192, 26.53
-"Blaine Boyer", "ATL", "Relief Pitcher", 75, 190, 25.64
-"Manny Acosta", "ATL", "Relief Pitcher", 76, 170, 25.83
-"Bob Wickman", "ATL", "Relief Pitcher", 73, 240, 38.06
-"Tanyon Sturtze", "ATL", "Relief Pitcher", 77, 200, 36.38
-"Oscar Villarreal", "ATL", "Relief Pitcher", 72, 205, 25.27
-"Rafael Soriano", "ATL", "Relief Pitcher", 73, 175, 27.2
-"Chad Paronto", "ATL", "Relief Pitcher", 77, 250, 31.59
-"Tyler Yates", "ATL", "Relief Pitcher", 76, 220, 29.56
-"Henry Blanco", "CHC", "Catcher", 71, 224, 35.5
-"Michael Barrett", "CHC", "Catcher", 75, 210, 30.35
-"Geovany Soto", "CHC", "Catcher", 73, 195, 24.11
-"Scott Moore", "CHC", "First Baseman", 74, 180, 23.29
-"Derrek Lee", "CHC", "First Baseman", 77, 245, 31.48
-"Ryan Theriot", "CHC", "Second Baseman", 71, 175, 27.23
-"Ronny Cedeno", "CHC", "Shortstop", 72, 180, 24.07
-"Aramis Ramirez", "CHC", "Third Baseman", 73, 215, 28.68
-"Cesar Izturis", "CHC", "Third Baseman", 69, 175, 27.05
-"Alfonso Soriano", "CHC", "Outfielder", 73, 180, 31.15
-"Jacque Jones", "CHC", "Outfielder", 70, 195, 31.85
-"Daryle Ward", "CHC", "Outfielder", 74, 230, 31.68
-"Cliff Floyd", "CHC", "Outfielder", 76, 230, 34.23
-"Mark DeRosa", "CHC", "Outfielder", 73, 205, 32.01
-"Matt Murton", "CHC", "Outfielder", 73, 215, 25.41
-"Buck Coats", "CHC", "Outfielder", 75, 195, 24.73
-"Angel Pagan", "CHC", "Outfielder", 73, 180, 25.66
-"Sean Marshall", "CHC", "Starting Pitcher", 79, 205, 24.5
-"Carlos Marmol", "CHC", "Starting Pitcher", 74, 180, 24.38
-"Ryan O'Malley", "CHC", "Starting Pitcher", 73, 190, 26.89
-"Juan Mateo", "CHC", "Starting Pitcher", 74, 180, 24.2
-"Rich Hill", "CHC", "Starting Pitcher", 77, 190, 26.97
-"Angel Guzman", "CHC", "Starting Pitcher", 75, 190, 25.21
-"Wade Miller", "CHC", "Starting Pitcher", 74, 220, 30.46
-"Jason Marquis", "CHC", "Starting Pitcher", 73, 210, 28.53
-"Carlos Zambrano", "CHC", "Starting Pitcher", 77, 255, 25.75
-"Ted Lilly", "CHC", "Starting Pitcher", 73, 190, 31.15
-"Mark Prior", "CHC", "Starting Pitcher", 77, 230, 26.48
-"Neal Cotts", "CHC", "Relief Pitcher", 74, 200, 26.93
-"Will Ohman", "CHC", "Relief Pitcher", 74, 205, 29.55
-"Scott Eyre", "CHC", "Relief Pitcher", 73, 210, 34.75
-"Kerry Wood", "CHC", "Relief Pitcher", 77, 225, 29.71
-"Ryan Dempster", "CHC", "Relief Pitcher", 74, 215, 29.83
-"Bob Howry", "CHC", "Relief Pitcher", 77, 220, 33.57
-"Mike Wuertz", "CHC", "Relief Pitcher", 75, 205, 28.21
-"Roberto Novoa", "CHC", "Relief Pitcher", 77, 200, 27.54
-"Chris Snyder", "ARZ", "Catcher", 75, 220, 26.05
-"Miguel Montero", "ARZ", "Catcher", 71, 197, 23.64
-"Conor Jackson", "ARZ", "First Baseman", 74, 225, 24.82
-"Robby Hammock", "ARZ", "First Baseman", 70, 187, 29.8
-"Tony Clark", "ARZ", "First Baseman", 79, 245, 34.71
-"Orlando Hudson", "ARZ", "Second Baseman", 72, 185, 29.22
-"Stephen Drew", "ARZ", "Shortstop", 72, 185, 23.96
-"Alberto Callaspo", "ARZ", "Shortstop", 70, 175, 23.87
-"Chad Tracy", "ARZ", "Third Baseman", 74, 200, 26.77
-"Chris Young", "ARZ", "Outfielder", 74, 180, 23.49
-"Scott Hairston", "ARZ", "Outfielder", 72, 188, 26.77
-"Carlos Quentin", "ARZ", "Outfielder", 73, 225, 24.51
-"Jeff DaVanon", "ARZ", "Outfielder", 72, 200, 33.23
-"Eric Byrnes", "ARZ", "Outfielder", 74, 210, 31.04
-"Livan Hernandez", "ARZ", "Starting Pitcher", 74, 245, 32.02
-"Doug Davis", "ARZ", "Starting Pitcher", 76, 213, 31.44
-"Randy Johnson", "ARZ", "Starting Pitcher", 82, 231, 43.47
-"Juan Cruz", "ARZ", "Starting Pitcher", 74, 165, 28.38
-"Brandon Webb", "ARZ", "Starting Pitcher", 74, 228, 27.81
-"Enrique Gonzalez", "ARZ", "Starting Pitcher", 70, 210, 24.57
-"Dana Eveland", "ARZ", "Starting Pitcher", 73, 250, 23.34
-"Brandon Medders", "ARZ", "Relief Pitcher", 73, 191, 27.09
-"Tony Pe?a", "ARZ", "Relief Pitcher", 74, 190, 25.14
-"Doug Slaten", "ARZ", "Relief Pitcher", 77, 200, 27.07
-"Edgar Gonzalez", "ARZ", "Relief Pitcher", 72, 215, 24.02
-"Jose Valverde", "ARZ", "Relief Pitcher", 76, 254, 27.6
-"Jorge Julio", "ARZ", "Relief Pitcher", 73, 232, 27.99
-"Brandon Lyon", "ARZ", "Relief Pitcher", 73, 180, 27.56
-"Miguel Olivo", "FLA", "Catcher", 72, 215, 28.63
-"Matt Treanor", "FLA", "Catcher", 74, 220, 30.99
-"Mike Jacobs", "FLA", "First Baseman", 74, 180, 26.33
-"Dan Uggla", "FLA", "Second Baseman", 71, 200, 26.97
-"Robert Andino", "FLA", "Shortstop", 72, 170, 22.85
-"Hanley Ramirez", "FLA", "Shortstop", 75, 195, 23.19
-"Miguel Cabrera", "FLA", "Third Baseman", 74, 210, 23.87
-"Aaron Boone", "FLA", "Third Baseman", 74, 200, 33.98
-"Joe Borchard", "FLA", "Outfielder", 77, 220, 28.26
-"Alfredo Amezaga", "FLA", "Outfielder", 70, 165, 29.12
-"Cody Ross", "FLA", "Outfielder", 71, 180, 26.18
-"Josh Willingham", "FLA", "Outfielder", 73, 200, 28.03
-"Jeremy Hermida", "FLA", "Outfielder", 76, 200, 23.08
-"Eric Reed", "FLA", "Outfielder", 71, 170, 26.24
-"Reggi Abercrombie", "FLA", "Outfielder", 75, 224, 26.63
-"Ricky Nolasco", "FLA", "Starting Pitcher", 74, 220, 24.21
-"Anibal Sanchez", "FLA", "Starting Pitcher", 72, 180, 23.01
-"Scott Olsen", "FLA", "Starting Pitcher", 76, 198, 23.13
-"Josh Johnson", "FLA", "Starting Pitcher", 79, 240, 23.08
-"Dontrelle Willis", "FLA", "Starting Pitcher", 76, 239, 25.13
-"Logan Kensing", "FLA", "Relief Pitcher", 73, 185, 24.66
-"Sergio Mitre", "FLA", "Relief Pitcher", 76, 210, 26.03
-"Kevin Gregg", "FLA", "Relief Pitcher", 78, 220, 28.7
-"Travis Bowyer", "FLA", "Relief Pitcher", 75, 200, 25.57
-"Renyel Pinto", "FLA", "Relief Pitcher", 76, 195, 24.65
-"Randy Messenger", "FLA", "Relief Pitcher", 72, 220, 25.55
-"Yusmeiro Petit", "FLA", "Relief Pitcher", 72, 230, 22.27
-"Carlos Martinez", "FLA", "Relief Pitcher", 73, 170, 24.76
-"Taylor Tankersley", "FLA", "Relief Pitcher", 73, 220, 23.98
-"Henry Owens", "FLA", "Relief Pitcher", 75, 230, 27.85
-"Jose Garcia", "FLA", "Relief Pitcher", 71, 165, 22.14
-"Matt Lindstrom", "FLA", "Relief Pitcher", 76, 205, 27.05
-"Javier Valentin", "CIN", "Catcher", 70, 192, 31.45
-"Chad Moeller", "CIN", "Catcher", 75, 210, 32.03
-"David Ross", "CIN", "Catcher", 74, 205, 29.95
-"Joey Votto", "CIN", "First Baseman", 75, 200, 23.47
-"Scott Hatteberg", "CIN", "First Baseman", 73, 210, 37.21
-"Brandon Phillips", "CIN", "Second Baseman", 71, 185, 25.67
-"Juan Castro", "CIN", "Shortstop", 71, 195, 34.69
-"Alex Gonzalez", "CIN", "Shortstop", 72, 202, 30.04
-"Mark Bellhorn", "CIN", "Third Baseman", 73, 205, 32.52
-"Edwin Encarnacion", "CIN", "Third Baseman", 73, 195, 24.15
-"Jeff Keppinger", "CIN", "Third Baseman", 72, 180, 26.86
-"Norris Hopper", "CIN", "Outfielder", 69, 200, 27.94
-"Chris Denorfia", "CIN", "Outfielder", 73, 185, 26.63
-"Adam Dunn", "CIN", "Outfielder", 78, 240, 27.31
-"Bubba Crosby", "CIN", "Outfielder", 71, 185, 30.55
-"Jeff Conine", "CIN", "Outfielder", 73, 220, 40.68
-"Ken Griffey Jr.", "CIN", "Outfielder", 75, 205, 37.27
-"Josh Hamilton", "CIN", "Outfielder", 76, 205, 25.78
-"Ryan Freel", "CIN", "Outfielder", 70, 180, 30.98
-"Kyle Lohse", "CIN", "Starting Pitcher", 74, 201, 28.41
-"Bronson Arroyo", "CIN", "Starting Pitcher", 77, 190, 30.01
-"Eric Milton", "CIN", "Starting Pitcher", 75, 208, 31.57
-"Aaron Harang", "CIN", "Starting Pitcher", 79, 240, 28.81
-"Kirk Saarloos", "CIN", "Starting Pitcher", 72, "", 27.77
-"Elizardo Ramirez", "CIN", "Starting Pitcher", 72, 180, 24.09
-"Todd Coffey", "CIN", "Relief Pitcher", 77, 230, 26.47
-"Brian Shackelford", "CIN", "Relief Pitcher", 73, 195, 30.5
-"Bill Bray", "CIN", "Relief Pitcher", 75, 215, 23.74
-"Bobby Livingston", "CIN", "Relief Pitcher", 75, 190, 24.49
-"Matt Belisle", "CIN", "Relief Pitcher", 75, 195, 26.73
-"Gary Majewski", "CIN", "Relief Pitcher", 73, 215, 27.01
-"Mike Stanton", "CIN", "Relief Pitcher", 73, 215, 39.75
-"Brad Salmon", "CIN", "Relief Pitcher", 76, 220, 27.16
-"Jared Burton", "CIN", "Relief Pitcher", 77, 220, 25.74
-"David Weathers", "CIN", "Relief Pitcher", 75, 230, 37.43
-"Rheal Cormier", "CIN", "Relief Pitcher", 70, 195, 39.85
-"Yorvit Torrealba", "COL", "Catcher", 71, 190, 28.62
-"Chris Iannetta", "COL", "Catcher", 71, 195, 23.9
-"Alvin Colina", "COL", "Catcher", 75, 209, 25.18
-"Todd Helton", "COL", "First Baseman", 74, 204, 33.53
-"Jamey Carroll", "COL", "Second Baseman", 69, 170, 33.03
-"Kaz Matsui", "COL", "Second Baseman", 70, 185, 31.35
-"Troy Tulowitzki", "COL", "Shortstop", 75, 205, 22.39
-"Clint Barmes", "COL", "Shortstop", 72, 175, 27.99
-"Garrett Atkins", "COL", "Third Baseman", 75, 210, 27.22
-"Ryan Spilborghs", "COL", "Outfielder", 73, 190, 27.49
-"Cory Sullivan", "COL", "Outfielder", 72, 180, 27.53
-"Jeff Salazar", "COL", "Outfielder", 72, 180, 26.26
-"Willy Taveras", "COL", "Outfielder", 72, 160, 25.18
-"Matt Holliday", "COL", "Outfielder", 76, 235, 27.12
-"Brad Hawpe", "COL", "Outfielder", 75, 200, 27.69
-"Jeff Baker", "COL", "Outfielder", 74, 210, 25.69
-"Javy Lopez", "COL", "Designated Hitter", 75, 224, 36.32
-"Byung-Hyun Kim", "COL", "Starting Pitcher", 69, 180, 28.11
-"Rodrigo Lopez", "COL", "Starting Pitcher", 73, 190, 31.21
-"Brian Lawrence", "COL", "Starting Pitcher", 72, 197, 30.8
-"Josh Fogg", "COL", "Starting Pitcher", 72, 203, 30.21
-"Aaron Cook", "COL", "Starting Pitcher", 75, 205, 28.06
-"Denny Bautista", "COL", "Starting Pitcher", 77, 170, 26.52
-"Ubaldo Jimenez", "COL", "Starting Pitcher", 76, 200, 23.1
-"Jason Hirsh", "COL", "Starting Pitcher", 80, 250, 25.02
-"Jeff Francis", "COL", "Starting Pitcher", 77, 200, 26.14
-"Taylor Buchholz", "COL", "Starting Pitcher", 76, 220, 25.38
-"Ryan Speier", "COL", "Relief Pitcher", 79, 200, 27.6
-"Ramon Ramirez", "COL", "Relief Pitcher", 71, 190, 25.5
-"Manny Corpas", "COL", "Relief Pitcher", 75, 170, 24.24
-"Juan Morillo", "COL", "Relief Pitcher", 73, 190, 23.32
-"Brian Fuentes", "COL", "Relief Pitcher", 76, 220, 31.56
-"LaTroy Hawkins", "COL", "Relief Pitcher", 77, 215, 34.19
-"Tom Martin", "COL", "Relief Pitcher", 73, 206, 36.78
-"Jeremy Affeldt", "COL", "Relief Pitcher", 76, 215, 27.73
-"Paul Lo Duca", "NYM", "Catcher", 70, 185, 34.88
-"Ramon Castro", "NYM", "Catcher", 75, 235, 31
-"Julio Franco", "NYM", "First Baseman", 73, 188, 48.52
-"Carlos Delgado", "NYM", "First Baseman", 75, 230, 34.68
-"Jose Valentin", "NYM", "Second Baseman", 70, 195, 37.38
-"Anderson Hernandez", "NYM", "Second Baseman", 69, 168, 24.33
-"Damion Easley", "NYM", "Shortstop", 71, 190, 37.3
-"Jose Reyes", "NYM", "Shortstop", 72, 160, 23.72
-"David Wright", "NYM", "Third Baseman", 72, 200, 24.19
-"Ben Johnson", "NYM", "Outfielder", 73, 200, 25.7
-"Endy Chavez", "NYM", "Outfielder", 70, 189, 29.06
-"David Newhan", "NYM", "Outfielder", 70, 180, 33.48
-"Carlos Beltran", "NYM", "Outfielder", 73, 190, 29.85
-"Shawn Green", "NYM", "Outfielder", 76, 200, 34.3
-"Moises Alou", "NYM", "Outfielder", 75, 220, 40.66
-"Lastings Milledge", "NYM", "Outfielder", 72, 187, 21.9
-"Alay Soler", "NYM", "Starting Pitcher", 73, 240, 27.39
-"Mike Pelfrey", "NYM", "Starting Pitcher", 79, 190, 23.13
-"Pedro Martinez", "NYM", "Starting Pitcher", 71, 180, 35.35
-"Tom Glavine", "NYM", "Starting Pitcher", 72, 185, 40.93
-"Chan Ho Park", "NYM", "Starting Pitcher", 74, 210, 33.67
-"Orlando Hernandez", "NYM", "Starting Pitcher", 74, 220, 37.39
-"Dave Williams", "NYM", "Starting Pitcher", 74, 219, 27.97
-"Oliver Perez", "NYM", "Starting Pitcher", 72, 190, 25.54
-"John Maine", "NYM", "Starting Pitcher", 76, 193, 25.81
-"Marcos Carvajal", "NYM", "Relief Pitcher", 76, 175, 22.53
-"Ambiorix Burgos", "NYM", "Relief Pitcher", 72, 180, 22.86
-"Jason Vargas", "NYM", "Relief Pitcher", 72, 215, 24.07
-"Jon Adkins", "NYM", "Relief Pitcher", 71, 210, 29.5
-"Juan Padilla", "NYM", "Relief Pitcher", 72, 200, 30.03
-"Duaner Sanchez", "NYM", "Relief Pitcher", 72, 190, 27.38
-"Pedro Feliciano", "NYM", "Relief Pitcher", 70, 185, 30.51
-"Aaron Heilman", "NYM", "Relief Pitcher", 77, 220, 28.3
-"Jorge Sosa", "NYM", "Relief Pitcher", 74, 170, 29.84
-"Scott Schoeneweis", "NYM", "Relief Pitcher", 72, 195, 33.41
-"Guillermo Mota", "NYM", "Relief Pitcher", 76, 205, 33.6
-"Billy Wagner", "NYM", "Relief Pitcher", 71, 195, 35.6
-"Philip Humber", "NYM", "Relief Pitcher", 76, 210, 24.19
-"Brad Ausmus", "HOU", "Catcher", 71, 190, 37.88
-"Humberto Quintero", "HOU", "Catcher", 73, 190, 27.56
-"Hector Gimenez", "HOU", "Catcher", 70, 180, 24.42
-"Lance Berkman", "HOU", "First Baseman", 73, 220, 31.05
-"Mike Lamb", "HOU", "First Baseman", 73, 190, 31.56
-"Mark Loretta", "HOU", "Second Baseman", 72, 186, 35.55
-"Craig Biggio", "HOU", "Second Baseman", 71, 185, 41.21
-"Brooks Conrad", "HOU", "Second Baseman", 71, 190, 27.12
-"Chris Burke", "HOU", "Second Baseman", 71, 180, 26.97
-"Eric Bruntlett", "HOU", "Second Baseman", 72, 190, 28.92
-"Adam Everett", "HOU", "Shortstop", 72, 170, 30.06
-"Morgan Ensberg", "HOU", "Third Baseman", 74, 210, 31.51
-"Carlos Lee", "HOU", "Outfielder", 74, 240, 30.69
-"Jason Lane", "HOU", "Outfielder", 74, 220, 30.19
-"Orlando Palmeiro", "HOU", "Outfielder", 71, 180, 38.11
-"Luke Scott", "HOU", "Outfielder", 72, 210, 28.68
-"Charlton Jimerson", "HOU", "Outfielder", 75, 210, 27.44
-"Fernando Nieve", "HOU", "Starting Pitcher", 72, 195, 24.63
-"Wandy Rodriguez", "HOU", "Starting Pitcher", 71, 160, 28.11
-"Brandon Backe", "HOU", "Starting Pitcher", 72, 180, 28.9
-"Matt Albers", "HOU", "Starting Pitcher", 72, 205, 24.11
-"Woody Williams", "HOU", "Starting Pitcher", 72, 200, 40.53
-"Roy Oswalt", "HOU", "Starting Pitcher", 72, 185, 29.5
-"Jason Jennings", "HOU", "Starting Pitcher", 74, 245, 28.62
-"Miguel Asencio", "HOU", "Relief Pitcher", 74, 190, 26.42
-"Brad Lidge", "HOU", "Relief Pitcher", 77, 210, 30.18
-"Trever Miller", "HOU", "Relief Pitcher", 75, 200, 33.75
-"David Borkowski", "HOU", "Relief Pitcher", 73, 200, 30.06
-"Dan Wheeler", "HOU", "Relief Pitcher", 75, 222, 29.22
-"Paul Estrada", "HOU", "Relief Pitcher", 73, 215, 24.47
-"Lincoln Holdzkom", "HOU", "Relief Pitcher", 76, 240, 24.94
-"Chris Sampson", "HOU", "Relief Pitcher", 72, 170, 28.77
-"Chad Qualls", "HOU", "Relief Pitcher", 77, 220, 28.54
-"Ezequiel Astacio", "HOU", "Relief Pitcher", 75, 156, 27.32
-"Mike Lieberthal", "LA", "Catcher", 72, 190, 35.12
-"Russell Martin", "LA", "Catcher", 71, 202, 24.04
-"Olmedo Saenz", "LA", "First Baseman", 71, 221, 36.39
-"James Loney", "LA", "First Baseman", 75, 200, 22.81
-"Nomar Garciaparra", "LA", "First Baseman", 72, 190, 33.6
-"Jeff Kent", "LA", "Second Baseman", 73, 210, 38.98
-"Ramon Martinez", "LA", "Second Baseman", 73, 190, 34.39
-"Marlon Anderson", "LA", "Second Baseman", 71, 200, 33.15
-"Rafael Furcal", "LA", "Shortstop", 70, 165, 29.35
-"Wilson Betemit", "LA", "Third Baseman", 75, 190, 26.59
-"Andy LaRoche", "LA", "Third Baseman", 71, 185, 23.46
-"Matt Kemp", "LA", "Outfielder", 76, 230, 22.43
-"Andre Ethier", "LA", "Outfielder", 73, 208, 24.89
-"Delwyn Young", "LA", "Outfielder", 68, 209, 24.67
-"Jason Repko", "LA", "Outfielder", 71, 175, 26.17
-"Juan Pierre", "LA", "Outfielder", 72, 180, 29.54
-"Luis Gonzalez", "LA", "Outfielder", 74, 200, 39.49
-"Jason Schmidt", "LA", "Starting Pitcher", 77, 205, 34.08
-"Randy Wolf", "LA", "Starting Pitcher", 72, 200, 30.52
-"Brad Penny", "LA", "Starting Pitcher", 76, 250, 28.77
-"Derek Lowe", "LA", "Starting Pitcher", 78, 210, 33.75
-"Mark Hendrickson", "LA", "Starting Pitcher", 81, 230, 32.69
-"Chad Billingsley", "LA", "Starting Pitcher", 72, 244, 22.59
-"Takashi Saito", "LA", "Relief Pitcher", 73, 202, 37.04
-"Jonathan Broxton", "LA", "Relief Pitcher", 76, 240, 22.7
-"Hong-Chih Kuo", "LA", "Relief Pitcher", 72, 200, 25.6
-"Eric Stults", "LA", "Relief Pitcher", 72, 215, 27.23
-"Chin-Hui Tsao", "LA", "Relief Pitcher", 74, 177, 25.74
-"Tim Hamulack", "LA", "Relief Pitcher", 76, 210, 30.29
-"Yhency Brazoban", "LA", "Relief Pitcher", 73, 170, 26.72
-"Brett Tomko", "LA", "Relief Pitcher", 76, 215, 33.9
-"Joe Beimel", "LA", "Relief Pitcher", 75, 217, 29.86
-"Elmer Dessens", "LA", "Relief Pitcher", 70, 198, 36.13
-"Ryan Budde", "PHI", "Catcher", 71, 200, 27.54
-"Rod Barajas", "PHI", "Catcher", 74, 220, 31.49
-"Carlos Ruiz", "PHI", "Catcher", 72, 170, 28.1
-"Chris Coste", "PHI", "Catcher", 73, 200, 34.07
-"Ryan Howard", "PHI", "First Baseman", 76, 230, 27.28
-"Wes Helms", "PHI", "First Baseman", 76, 231, 30.8
-"Chase Utley", "PHI", "Second Baseman", 73, 183, 28.2
-"Danny Sandoval", "PHI", "Second Baseman", 71, 192, 27.9
-"Jimmy Rollins", "PHI", "Shortstop", 68, 167, 28.26
-"Abraham Nu?ez", "PHI", "Third Baseman", 71, 190, 30.96
-"Michael Bourn", "PHI", "Outfielder", 71, 180, 24.18
-"Chris Roberson", "PHI", "Outfielder", 74, 180, 27.52
-"Jayson Werth", "PHI", "Outfielder", 77, 215, 27.78
-"Shane Victorino", "PHI", "Outfielder", 69, 160, 26.25
-"Aaron Rowand", "PHI", "Outfielder", 72, 205, 29.5
-"Pat Burrell", "PHI", "Outfielder", 76, 223, 30.39
-"Greg Dobbs", "PHI", "Designated Hitter", 73, 205, 28.66
-"Cole Hamels", "PHI", "Starting Pitcher", 75, 175, 23.18
-"Alfredo Simon", "PHI", "Starting Pitcher", 76, 170, 25.81
-"Scott Mathieson", "PHI", "Starting Pitcher", 75, 190, 23.01
-"Freddy Garcia", "PHI", "Starting Pitcher", 76, 240, 31.72
-"Jamie Moyer", "PHI", "Starting Pitcher", 72, 175, 44.28
-"Jon Lieber", "PHI", "Starting Pitcher", 74, 230, 36.91
-"Brett Myers", "PHI", "Starting Pitcher", 76, 223, 26.54
-"Adam Eaton", "PHI", "Starting Pitcher", 74, 196, 29.27
-"Geoff Geary", "PHI", "Relief Pitcher", 72, 167, 30.51
-"Clay Condrey", "PHI", "Relief Pitcher", 75, 195, 31.28
-"Ryan Madson", "PHI", "Relief Pitcher", 78, 190, 26.51
-"Antonio Alfonseca", "PHI", "Relief Pitcher", 77, 250, 34.87
-"Tom Gordon", "PHI", "Relief Pitcher", 70, 190, 39.28
-"Brian Sanches", "PHI", "Relief Pitcher", 72, 190, 28.56
-"Jim Ed Warden", "PHI", "Relief Pitcher", 79, 190, 27.82
-"Anderson Garcia", "PHI", "Relief Pitcher", 74, 170, 25.94
-"Eude Brito", "PHI", "Relief Pitcher", 71, 160, 28.53
-"Fabio Castro", "PHI", "Relief Pitcher", 68, 150, 22.11
-"Matt Smith", "PHI", "Relief Pitcher", 77, 225, 27.71
-"Damian Miller", "MLW", "Catcher", 75, 220, 37.38
-"Johnny Estrada", "MLW", "Catcher", 71, 209, 30.67
-"Mike Rivera", "MLW", "Catcher", 72, 210, 30.48
-"J.D. Closser", "MLW", "Catcher", 70, 176, 27.12
-"Prince Fielder", "MLW", "First Baseman", 72, 260, 22.81
-"Rickie Weeks", "MLW", "Second Baseman", 72, 195, 24.46
-"Tony Graffanino", "MLW", "Second Baseman", 73, 190, 34.73
-"Craig Counsell", "MLW", "Shortstop", 72, 184, 36.53
-"J.J. Hardy", "MLW", "Shortstop", 74, 180, 24.53
-"Bill Hall", "MLW", "Shortstop", 72, 195, 27.17
-"Vinny Rottino", "MLW", "Third Baseman", 72, 195, 26.9
-"Corey Koskie", "MLW", "Third Baseman", 75, 219, 33.67
-"Kevin Mench", "MLW", "Outfielder", 72, 225, 29.14
-"Geoff Jenkins", "MLW", "Outfielder", 73, 212, 32.61
-"Brady Clark", "MLW", "Outfielder", 74, 202, 33.87
-"Tony Gwynn Jr.", "MLW", "Outfielder", 72, 185, 24.41
-"Corey Hart", "MLW", "Outfielder", 78, 200, 24.94
-"Gabe Gross", "MLW", "Outfielder", 75, 209, 27.36
-"Laynce Nix", "MLW", "Outfielder", 72, 200, 26.33
-"Drew Anderson", "MLW", "Outfielder", 74, 195, 25.72
-"Claudio Vargas", "MLW", "Starting Pitcher", 75, 228, 28.7
-"Chris Capuano", "MLW", "Starting Pitcher", 75, 210, 28.53
-"Ben Hendrickson", "MLW", "Starting Pitcher", 76, 190, 26.07
-"Dave Bush", "MLW", "Starting Pitcher", 74, 212, 27.31
-"Carlos Villanueva", "MLW", "Starting Pitcher", 74, 190, 23.26
-"Ben Sheets", "MLW", "Starting Pitcher", 73, 218, 28.62
-"Jeff Suppan", "MLW", "Starting Pitcher", 74, 220, 32.16
-"Brian Shouse", "MLW", "Relief Pitcher", 71, 190, 38.43
-"Francisco Cordero", "MLW", "Relief Pitcher", 74, 235, 31.81
-"Derrick Turnbow", "MLW", "Relief Pitcher", 75, 210, 29.1
-"Matt Wise", "MLW", "Relief Pitcher", 76, 200, 31.28
-"Grant Balfour", "MLW", "Relief Pitcher", 74, 188, 29.17
-"Dennis Sarfate", "MLW", "Relief Pitcher", 76, 210, 25.89
-"Jose Capellan", "MLW", "Relief Pitcher", 76, 235, 26.13
-"Greg Aquino", "MLW", "Relief Pitcher", 73, 188, 29.13
-"Josh Bard", "SD", "Catcher", 75, 215, 28.92
-"Rob Bowen", "SD", "Catcher", 75, 216, 26.01
-"Adrian Gonzalez", "SD", "First Baseman", 74, 220, 24.81
-"Marcus Giles", "SD", "Second Baseman", 68, 180, 28.79
-"Todd Walker", "SD", "Second Baseman", 72, 185, 33.77
-"Geoff Blum", "SD", "Shortstop", 75, 200, 33.85
-"Khalil Greene", "SD", "Shortstop", 71, 210, 27.36
-"Paul McAnulty", "SD", "Outfielder", 70, 220, 26.01
-"Terrmel Sledge", "SD", "Outfielder", 72, 185, 29.95
-"Jack Cust", "SD", "Outfielder", 73, 231, 28.12
-"Jose Cruz Jr.", "SD", "Outfielder", 72, 210, 32.87
-"Russell Branyan", "SD", "Outfielder", 75, 195, 31.2
-"Mike Cameron", "SD", "Outfielder", 74, 200, 34.14
-"Brian Giles", "SD", "Outfielder", 70, 205, 36.11
-"Kevin Kouzmanoff", "SD", "Designated Hitter", 73, 200, 25.6
-"Mike Thompson", "SD", "Starting Pitcher", 76, 200, 26.31
-"Clay Hensley", "SD", "Starting Pitcher", 71, 190, 27.5
-"Chris Young", "SD", "Starting Pitcher", 82, 250, 27.77
-"Greg Maddux", "SD", "Starting Pitcher", 72, 185, 40.88
-"Jake Peavy", "SD", "Starting Pitcher", 73, 180, 25.75
-"Scott Cassidy", "SD", "Relief Pitcher", 74, 170, 31.41
-"Scott Strickland", "SD", "Relief Pitcher", 71, 180, 30.84
-"Scott Linebrink", "SD", "Relief Pitcher", 75, 208, 30.57
-"Doug Brocail", "SD", "Relief Pitcher", 77, 235, 39.79
-"Trevor Hoffman", "SD", "Relief Pitcher", 72, 215, 39.38
-"Heath Bell", "SD", "Relief Pitcher", 74, 244, 29.42
-"Royce Ring", "SD", "Relief Pitcher", 72, 220, 26.19
-"Cla Meredith", "SD", "Relief Pitcher", 73, 185, 23.74
-"Andrew Brown", "SD", "Relief Pitcher", 78, 230, 26.03
-"Mike Adams", "SD", "Relief Pitcher", 77, 190, 28.59
-"Justin Hampson", "SD", "Relief Pitcher", 73, 200, 26.77
-"Kevin Cameron", "SD", "Relief Pitcher", 73, 180, 27.21
-"Ryan Ketchner", "SD", "Relief Pitcher", 73, 190, 24.87
-"Brian Schneider", "WAS", "Catcher", 73, 196, 30.26
-"Jesus Flores", "WAS", "Catcher", 73, 180, 22.34
-"Larry Broadway", "WAS", "First Baseman", 76, 230, 26.2
-"Nick Johnson", "WAS", "First Baseman", 75, 224, 28.45
-"Bernie Castro", "WAS", "Second Baseman", 70, 160, 27.63
-"Josh Wilson", "WAS", "Shortstop", 73, 178, 25.93
-"Cristian Guzman", "WAS", "Shortstop", 72, 205, 28.94
-"Felipe Lopez", "WAS", "Shortstop", 73, 185, 26.8
-"Ryan Zimmerman", "WAS", "Third Baseman", 75, 210, 22.42
-"Nook Logan", "WAS", "Outfielder", 74, 180, 27.26
-"Ryan Church", "WAS", "Outfielder", 73, 190, 28.38
-"Kory Casto", "WAS", "Outfielder", 73, 200, 25.23
-"Mike Restovich", "WAS", "Outfielder", 76, 257, 28.16
-"Alex Escobar", "WAS", "Outfielder", 73, 190, 28.48
-"Austin Kearns", "WAS", "Outfielder", 75, 220, 26.78
-"Chris Snelling", "WAS", "Outfielder", 70, 165, 25.24
-"Billy Traber", "WAS", "Starting Pitcher", 77, 205, 27.45
-"Tim Redding", "WAS", "Starting Pitcher", 72, 200, 29.05
-"John Patterson", "WAS", "Starting Pitcher", 77, 208, 29.08
-"Shawn Hill", "WAS", "Starting Pitcher", 74, 185, 25.84
-"Joel Hanrahan", "WAS", "Starting Pitcher", 75, 215, 25.4
-"Mike O'Connor", "WAS", "Starting Pitcher", 75, 170, 26.54
-"Emiliano Fruto", "WAS", "Relief Pitcher", 75, 235, 22.73
-"Chris Schroder", "WAS", "Relief Pitcher", 75, 210, 28.53
-"Brett Campbell", "WAS", "Relief Pitcher", 72, 170, 25.37
-"Beltran Perez", "WAS", "Relief Pitcher", 74, 180, 25.35
-"Levale Speigner", "WAS", "Relief Pitcher", 71, 170, 26.43
-"Jason Bergmann", "WAS", "Relief Pitcher", 76, 190, 25.43
-"Saul Rivera", "WAS", "Relief Pitcher", 71, 150, 29.23
-"Chris Booker", "WAS", "Relief Pitcher", 75, 230, 30.22
-"Micah Bowie", "WAS", "Relief Pitcher", 76, 203, 32.3
-"Jon Rauch", "WAS", "Relief Pitcher", 83, 260, 28.42
-"Jerome Williams", "WAS", "Relief Pitcher", 75, 246, 25.24
-"Luis Ayala", "WAS", "Relief Pitcher", 74, 186, 29.13
-"Ryan Wagner", "WAS", "Relief Pitcher", 76, 210, 24.63
-"Chad Cordero", "WAS", "Relief Pitcher", 72, 198, 24.95
-"Humberto Cota", "PIT", "Catcher", 72, 210, 28.06
-"Ronny Paulino", "PIT", "Catcher", 75, 215, 25.86
-"Adam LaRoche", "PIT", "First Baseman", 75, 180, 27.32
-"Ryan Doumit", "PIT", "First Baseman", 72, 200, 25.91
-"Brad Eldred", "PIT", "First Baseman", 77, 245, 26.63
-"Jose Castillo", "PIT", "Second Baseman", 73, 200, 25.95
-"Jack Wilson", "PIT", "Shortstop", 72, 192, 29.17
-"Freddy Sanchez", "PIT", "Third Baseman", 70, 192, 29.19
-"Jason Bay", "PIT", "Outfielder", 74, 200, 28.44
-"Jose Bautista", "PIT", "Outfielder", 72, 192, 26.36
-"Xavier Nady", "PIT", "Outfielder", 74, 205, 28.29
-"Jody Gerut", "PIT", "Outfielder", 72, 190, 29.45
-"Nate McLouth", "PIT", "Outfielder", 71, 186, 25.34
-"Chris Duffy", "PIT", "Outfielder", 70, 170, 26.86
-"Rajai Davis", "PIT", "Outfielder", 71, 197, 26.36
-"Shane Youman", "PIT", "Starting Pitcher", 76, 219, 27.39
-"Yoslan Herrera", "PIT", "Starting Pitcher", 74, 200, 25.84
-"Josh Shortslef", "PIT", "Starting Pitcher", 76, 220, 25.08
-"Zach Duke", "PIT", "Starting Pitcher", 74, 207, 23.87
-"Paul Maholm", "PIT", "Starting Pitcher", 74, 225, 24.68
-"Tom Gorzelanny", "PIT", "Starting Pitcher", 74, 207, 24.64
-"Shawn Chacon", "PIT", "Starting Pitcher", 75, 212, 29.19
-"Tony Armas Jr.", "PIT", "Starting Pitcher", 75, 225, 28.84
-"Ian Snell", "PIT", "Starting Pitcher", 71, 170, 25.33
-"Sean Burnett", "PIT", "Starting Pitcher", 71, 190, 24.45
-"John Grabow", "PIT", "Relief Pitcher", 74, 210, 28.32
-"Marty McLeary", "PIT", "Relief Pitcher", 77, 230, 32.34
-"Salomon Torres", "PIT", "Relief Pitcher", 71, 210, 34.97
-"Damaso Marte", "PIT", "Relief Pitcher", 74, 200, 32.04
-"Matt Capps", "PIT", "Relief Pitcher", 75, 238, 23.49
-"Josh Sharpless", "PIT", "Relief Pitcher", 77, 234, 26.09
-"Bryan Bullington", "PIT", "Relief Pitcher", 76, 222, 26.41
-"Jonah Bayliss", "PIT", "Relief Pitcher", 74, 200, 26.55
-"Brian Rogers", "PIT", "Relief Pitcher", 76, 190, 24.62
-"Juan Perez", "PIT", "Relief Pitcher", 72, 170, 28.49
-"Bengie Molina", "SF", "Catcher", 71, 220, 32.61
-"Eliezer Alfonzo", "SF", "Catcher", 72, 223, 28.06
-"Lance Niekro", "SF", "First Baseman", 75, 210, 28.08
-"Mark Sweeney", "SF", "First Baseman", 73, 215, 37.34
-"Ray Durham", "SF", "Second Baseman", 68, 196, 35.25
-"Kevin Frandsen", "SF", "Second Baseman", 72, 175, 24.77
-"Omar Vizquel", "SF", "Shortstop", 69, 175, 39.85
-"Rich Aurilia", "SF", "Third Baseman", 73, 189, 35.49
-"Pedro Feliz", "SF", "Third Baseman", 73, 205, 31.84
-"Todd Linden", "SF", "Outfielder", 75, 210, 26.67
-"Dave Roberts", "SF", "Outfielder", 70, 180, 34.75
-"Jason Ellison", "SF", "Outfielder", 70, 180, 28.91
-"Randy Winn", "SF", "Outfielder", 74, 197, 32.73
-"Ryan Klesko", "SF", "Outfielder", 75, 220, 35.72
-"Barry Bonds", "SF", "Outfielder", 74, 228, 42.6
-"Fred Lewis", "SF", "Outfielder", 74, 190, 26.22
-"Kelyn Acosta", "SF", "Starting Pitcher", 73, 204, 21.85
-"Jonathan Sanchez", "SF", "Starting Pitcher", 74, 165, 24.28
-"Matt Cain", "SF", "Starting Pitcher", 75, 216, 22.41
-"Matt Morris", "SF", "Starting Pitcher", 77, 220, 32.56
-"Russ Ortiz", "SF", "Starting Pitcher", 73, 208, 32.74
-"Noah Lowry", "SF", "Starting Pitcher", 74, 210, 26.39
-"Barry Zito", "SF", "Starting Pitcher", 76, 215, 28.8
-"Vinnie Chulk", "SF", "Relief Pitcher", 74, 195, 28.2
-"Kevin Correia", "SF", "Relief Pitcher", 75, 200, 26.52
-"Steve Kline", "SF", "Relief Pitcher", 73, 215, 34.52
-"Armando Benitez", "SF", "Relief Pitcher", 76, 229, 34.32
-"Scott Munter", "SF", "Relief Pitcher", 78, 240, 26.98
-"Jack Taschner", "SF", "Relief Pitcher", 75, 207, 28.86
-"Brian Wilson", "SF", "Relief Pitcher", 73, 205, 24.96
-"Merkin Valdez", "SF", "Relief Pitcher", 77, 208, 25.3
-"Brad Hennessey", "SF", "Relief Pitcher", 74, 185, 27.06
-"Billy Sadler", "SF", "Relief Pitcher", 72, 190, 25.44
-"Pat Misch", "SF", "Relief Pitcher", 74, 170, 25.53
-"Gary Bennett", "STL", "Catcher", 72, 208, 34.87
-"Yadier Molina", "STL", "Catcher", 71, 225, 24.63
-"John Nelson", "STL", "First Baseman", 73, 190, 27.99
-"Albert Pujols", "STL", "First Baseman", 75, 225, 27.12
-"Adam Kennedy", "STL", "Second Baseman", 73, 185, 31.14
-"Aaron Miles", "STL", "Second Baseman", 67, 180, 30.21
-"David Eckstein", "STL", "Shortstop", 67, 165, 32.11
-"Scott Rolen", "STL", "Third Baseman", 76, 240, 31.91
-"Scott Spiezio", "STL", "Third Baseman", 74, 220, 34.44
-"Jim Edmonds", "STL", "Outfielder", 73, 212, 36.68
-"So Taguchi", "STL", "Outfielder", 70, 163, 37.66
-"Juan Encarnacion", "STL", "Outfielder", 75, 215, 30.98
-"Skip Schumaker", "STL", "Outfielder", 70, 175, 27.07
-"John Rodriguez", "STL", "Outfielder", 72, 205, 29.11
-"Chris Duncan", "STL", "Outfielder", 77, 210, 25.82
-"Adam Wainwright", "STL", "Starting Pitcher", 79, 205, 25.5
-"Mark Mulder", "STL", "Starting Pitcher", 78, 208, 29.57
-"Anthony Reyes", "STL", "Starting Pitcher", 74, 215, 25.37
-"Ryan Franklin", "STL", "Starting Pitcher", 75, 180, 33.99
-"Kip Wells", "STL", "Starting Pitcher", 75, 200, 29.86
-"Chris Carpenter", "STL", "Starting Pitcher", 78, 230, 31.84
-"Russ Springer", "STL", "Relief Pitcher", 76, 211, 38.31
-"Jason Isringhausen", "STL", "Relief Pitcher", 75, 230, 34.48
-"Ricardo Rincon", "STL", "Relief Pitcher", 69, 190, 36.88
-"Braden Looper", "STL", "Relief Pitcher", 75, 220, 32.34
-"Randy Flores", "STL", "Relief Pitcher", 72, 180, 31.58
-"Josh Hancock", "STL", "Relief Pitcher", 75, 205, 28.89
-"Brad Thompson", "STL", "Relief Pitcher", 73, 190, 25.08
-"Tyler Johnson", "STL", "Relief Pitcher", 74, 180, 25.73
-"Chris Narveson", "STL", "Relief Pitcher", 75, 205, 25.19
-"Randy Keisler", "STL", "Relief Pitcher", 75, 190, 31.01
-"Josh Kinney", "STL", "Relief Pitcher", 73, 195, 27.92
-"
+Name,Team,Position,Height(inches),Weight(lbs),Age
+AdamDonachie,BAL,Catcher,74,180,22.99
+PaulBako,BAL,Catcher,74,215,34.69
+RamonHernandez,BAL,Catcher,72,210,30.78
+KevinMillar,BAL,FirstBaseman,72,210,35.43
+ChrisGomez,BAL,FirstBaseman,73,188,35.71
+BrianRoberts,BAL,SecondBaseman,69,176,29.39
+MiguelTejada,BAL,Shortstop,69,209,30.77
+MelvinMora,BAL,ThirdBaseman,71,200,35.07
+AubreyHuff,BAL,ThirdBaseman,76,231,30.19
+AdamStern,BAL,Outfielder,71,180,27.05
+JeffFiorentino,BAL,Outfielder,73,188,23.88
+FreddieBynum,BAL,Outfielder,73,180,26.96
+NickMarkakis,BAL,Outfielder,74,185,23.29
+BrandonFahey,BAL,Outfielder,74,160,26.11
+CoreyPatterson,BAL,Outfielder,69,180,27.55
+JayPayton,BAL,Outfielder,70,185,34.27
+JayGibbons,BAL,DesignatedHitter,72,197,30
+ErikBedard,BAL,StartingPitcher,73,189,27.99
+HaydenPenn,BAL,StartingPitcher,75,185,22.38
+AdamLoewen,BAL,StartingPitcher,78,219,22.89
+DanielCabrera,BAL,StartingPitcher,79,230,25.76
+SteveTrachsel,BAL,StartingPitcher,76,205,36.33
+JaretWright,BAL,StartingPitcher,74,230,31.17
+KrisBenson,BAL,StartingPitcher,76,195,32.31
+ScottWilliamson,BAL,ReliefPitcher,72,180,31.03
+JohnParrish,BAL,ReliefPitcher,71,192,29.26
+DanysBaez,BAL,ReliefPitcher,75,225,29.47
+ChadBradford,BAL,ReliefPitcher,77,203,32.46
+JamieWalker,BAL,ReliefPitcher,74,195,35.67
+BrianBurres,BAL,ReliefPitcher,73,182,25.89
+KurtBirkins,BAL,ReliefPitcher,74,188,26.55
+JamesHoey,BAL,ReliefPitcher,78,200,24.17
+SendyRleal,BAL,ReliefPitcher,73,180,26.69
+ChrisRay,BAL,ReliefPitcher,75,200,25.13
+JeremyGuthrie,BAL,ReliefPitcher,73,200,27.9
+A.J.Pierzynski,CWS,Catcher,75,245,30.17
+TobyHall,CWS,Catcher,75,240,31.36
+PaulKonerko,CWS,FirstBaseman,74,215,30.99
+TadahitoIguchi,CWS,SecondBaseman,69,185,32.24
+JuanUribe,CWS,Shortstop,71,175,27.61
+AlexCintron,CWS,Shortstop,74,199,28.2
+JoeCrede,CWS,ThirdBaseman,73,200,28.85
+JoshFields,CWS,ThirdBaseman,73,215,24.21
+RyanSweeney,CWS,Outfielder,76,200,22.02
+BrianN.Anderson,CWS,Outfielder,74,205,24.97
+LuisTerrero,CWS,Outfielder,74,206,26.78
+PabloOzuna,CWS,Outfielder,70,186,32.51
+ScottPodsednik,CWS,Outfielder,72,188,30.95
+JermaineDye,CWS,Outfielder,77,220,33.09
+DarinErstad,CWS,Outfielder,74,210,32.74
+RobMackowiak,CWS,Outfielder,70,195,30.69
+JimThome,CWS,DesignatedHitter,76,244,36.51
+JerryOwens,CWS,DesignatedHitter,75,195,26.03
+CharlieHaeger,CWS,StartingPitcher,73,200,23.45
+HeathPhillips,CWS,StartingPitcher,75,200,24.94
+GavinFloyd,CWS,StartingPitcher,76,212,24.09
+JoseContreras,CWS,StartingPitcher,76,224,35.23
+JonGarland,CWS,StartingPitcher,78,210,27.43
+JavierVazquez,CWS,StartingPitcher,74,205,30.6
+MarkBuehrle,CWS,StartingPitcher,74,220,27.94
+MikeMacDougal,CWS,ReliefPitcher,76,195,29.99
+DavidAardsma,CWS,ReliefPitcher,77,200,25.17
+AndrewSisco,CWS,ReliefPitcher,81,260,24.13
+MattThornton,CWS,ReliefPitcher,78,228,30.46
+BobbyJenks,CWS,ReliefPitcher,75,270,25.96
+BooneLogan,CWS,ReliefPitcher,77,200,22.55
+SeanTracey,CWS,ReliefPitcher,75,210,26.29
+NickMasset,CWS,ReliefPitcher,76,190,24.79
+JoseMolina,ANA,Catcher,74,220,31.74
+JeffMathis,ANA,Catcher,72,180,23.92
+MikeNapoli,ANA,Catcher,72,205,25.33
+CaseyKotchman,ANA,FirstBaseman,75,210,24.02
+KendryMorales,ANA,FirstBaseman,73,220,23.7
+SheaHillenbrand,ANA,FirstBaseman,73,211,31.59
+RobbQuinlan,ANA,FirstBaseman,73,200,29.95
+HowieKendrick,ANA,FirstBaseman,70,180,23.64
+OrlandoCabrera,ANA,Shortstop,70,190,32.33
+ErickAybar,ANA,Shortstop,70,170,23.13
+DallasMcPherson,ANA,ThirdBaseman,76,230,26.6
+MaicerIzturis,ANA,ThirdBaseman,68,155,26.46
+ReggieWillits,ANA,Outfielder,71,185,25.75
+TommyMurphy,ANA,Outfielder,72,185,27.51
+TerryEvans,ANA,Outfielder,75,200,25.11
+GaryMatthewsJr.,ANA,Outfielder,75,225,32.51
+GarretAnderson,ANA,Outfielder,75,225,34.67
+VladimirGuerrero,ANA,Outfielder,75,220,31.06
+ChoneFiggins,ANA,Outfielder,68,160,29.1
+JuanRivera,ANA,Outfielder,74,205,28.66
+JohnLackey,ANA,StartingPitcher,78,235,28.35
+BartoloColon,ANA,StartingPitcher,71,250,33.77
+KelvimEscobar,ANA,StartingPitcher,73,210,30.89
+DustinMoseley,ANA,StartingPitcher,76,190,37.74
+ErvinSantana,ANA,StartingPitcher,74,160,24.14
+JoeSaunders,ANA,StartingPitcher,74,200,25.71
+JeredWeaver,ANA,StartingPitcher,79,205,24.41
+ChrisResop,ANA,ReliefPitcher,75,222,24.32
+PhilSeibel,ANA,ReliefPitcher,73,195,28.09
+JustinSpeier,ANA,ReliefPitcher,76,205,33.31
+DarrenOliver,ANA,ReliefPitcher,74,220,36.4
+HectorCarrasco,ANA,ReliefPitcher,74,220,37.36
+ScotShields,ANA,ReliefPitcher,73,170,31.61
+FranciscoRodriguez,ANA,ReliefPitcher,72,185,25.14
+GregJones,ANA,ReliefPitcher,74,195,30.29
+DougMirabelli,BOS,Catcher,73,220,36.37
+JasonVaritek,BOS,Catcher,74,230,34.89
+GeorgeKottaras,BOS,Catcher,72,180,23.79
+KevinYoukilis,BOS,FirstBaseman,73,220,27.96
+DustinPedroia,BOS,SecondBaseman,69,180,23.54
+AlexCora,BOS,Shortstop,72,180,31.37
+JulioLugo,BOS,Shortstop,73,170,31.29
+MikeLowell,BOS,ThirdBaseman,75,210,33.01
+WilyMoPe?a,BOS,Outfielder,75,215,25.1
+J.D.Drew,BOS,Outfielder,73,200,31.28
+MannyRamirez,BOS,Outfielder,72,213,34.75
+BrandonMoss,BOS,Outfielder,72,180,23.46
+DavidMurphy,BOS,Outfielder,76,192,25.37
+EricHinske,BOS,Outfielder,74,235,29.57
+CocoCrisp,BOS,Outfielder,72,185,27.33
+DavidOrtiz,BOS,DesignatedHitter,76,230,31.28
+CurtSchilling,BOS,StartingPitcher,77,235,40.29
+TimWakefield,BOS,StartingPitcher,74,210,40.58
+JoshBeckett,BOS,StartingPitcher,77,222,26.79
+MattClement,BOS,StartingPitcher,75,210,32.55
+JonathanPapelbon,BOS,StartingPitcher,76,230,26.27
+KyleSnyder,BOS,StartingPitcher,80,220,29.47
+DevernHansack,BOS,StartingPitcher,74,180,29.07
+JonLester,BOS,StartingPitcher,74,190,23.15
+KasonGabbard,BOS,StartingPitcher,75,200,24.9
+CraigHansen,BOS,ReliefPitcher,78,210,23.29
+HidekiOkajima,BOS,ReliefPitcher,73,194,31.18
+CraigBreslow,BOS,ReliefPitcher,73,180,26.56
+MannyDelcarmen,BOS,ReliefPitcher,74,190,25.03
+BrendanDonnelly,BOS,ReliefPitcher,75,240,35.66
+JavierLopez,BOS,ReliefPitcher,76,200,29.64
+J.C.Romero,BOS,ReliefPitcher,71,198,30.74
+JoelPineiro,BOS,ReliefPitcher,73,200,28.43
+JulianTavarez,BOS,ReliefPitcher,74,195,33.77
+MikeTimlin,BOS,ReliefPitcher,76,210,40.97
+NickDeBarr,BOS,ReliefPitcher,76,220,23.52
+VictorMartinez,CLE,Catcher,74,190,28.19
+KellyShoppach,CLE,Catcher,73,210,26.84
+RyanGarko,CLE,FirstBaseman,74,225,26.16
+JoeInglett,CLE,SecondBaseman,70,180,28.67
+JoshBarfield,CLE,SecondBaseman,72,185,24.2
+HectorLuna,CLE,SecondBaseman,73,170,27.08
+JhonnyPeralta,CLE,Shortstop,73,185,24.76
+AndyMarte,CLE,ThirdBaseman,73,185,23.36
+BenFrancisco,CLE,Outfielder,73,180,25.35
+Shin-SooChoo,CLE,Outfielder,71,178,24.63
+FranklinGutierrez,CLE,Outfielder,74,175,24.02
+GradySizemore,CLE,Outfielder,74,200,24.58
+JasonMichaels,CLE,Outfielder,72,204,30.82
+TrotNixon,CLE,Outfielder,74,211,32.89
+DavidDellucci,CLE,Outfielder,71,190,33.33
+CaseyBlake,CLE,Outfielder,74,210,33.52
+TravisHafner,CLE,DesignatedHitter,75,240,29.74
+PaulByrd,CLE,StartingPitcher,73,190,36.24
+CliffLee,CLE,StartingPitcher,75,190,28.5
+JakeWestbrook,CLE,StartingPitcher,75,185,29.42
+C.C.Sabathia,CLE,StartingPitcher,79,290,26.61
+JeremySowers,CLE,StartingPitcher,73,175,23.79
+RafaelPerez,CLE,ReliefPitcher,75,185,24.96
+BrianSlocum,CLE,ReliefPitcher,76,200,25.93
+EdwardMujica,CLE,ReliefPitcher,74,220,22.81
+FernandoCabrera,CLE,ReliefPitcher,76,170,25.29
+TomMastny,CLE,ReliefPitcher,78,220,26.07
+JuanLara,CLE,ReliefPitcher,74,190,26.09
+FaustoCarmona,CLE,ReliefPitcher,76,220,23.23
+AaronFultz,CLE,ReliefPitcher,72,205,33.49
+RafaelBetancourt,CLE,ReliefPitcher,74,200,31.84
+RobertoHernandez,CLE,ReliefPitcher,76,250,42.3
+JoeBorowski,CLE,ReliefPitcher,74,225,35.82
+MattMiller,CLE,ReliefPitcher,75,215,35.27
+JasonDavis,CLE,ReliefPitcher,78,210,26.81
+MikePiazza,OAK,Catcher,75,215,38.49
+JasonKendall,OAK,Catcher,72,195,32.68
+AdamMelhuse,OAK,Catcher,74,200,34.93
+NickSwisher,OAK,FirstBaseman,72,194,26.26
+DanJohnson,OAK,FirstBaseman,74,220,27.56
+DonaldMurphy,OAK,SecondBaseman,70,180,23.98
+MarkEllis,OAK,SecondBaseman,71,180,29.73
+MarcoScutaro,OAK,Shortstop,70,170,31.33
+BobbyCrosby,OAK,Shortstop,75,195,27.13
+MarkKiger,OAK,Shortstop,71,180,26.75
+AntonioPerez,OAK,ThirdBaseman,71,170,27.09
+EricChavez,OAK,ThirdBaseman,73,206,29.23
+MiltonBradley,OAK,Outfielder,72,205,28.88
+ShannonStewart,OAK,Outfielder,71,200,33.01
+BobbyKielty,OAK,Outfielder,73,225,30.57
+MarkKotsay,OAK,Outfielder,72,201,31.24
+RyanGoleski,OAK,Outfielder,75,225,24.95
+JeremyBrown,OAK,DesignatedHitter,70,226,27.35
+JasonWindsor,OAK,StartingPitcher,74,233,24.62
+DavidShafer,OAK,StartingPitcher,74,180,24.98
+JoeBlanton,OAK,StartingPitcher,75,225,26.22
+BradHalsey,OAK,StartingPitcher,73,180,26.04
+DanHaren,OAK,StartingPitcher,77,220,26.45
+RichHarden,OAK,StartingPitcher,73,180,25.25
+JoeKennedy,OAK,StartingPitcher,76,237,27.77
+EstebanLoaiza,OAK,StartingPitcher,75,215,35.16
+AlanEmbree,OAK,ReliefPitcher,74,190,37.1
+JayWitasick,OAK,ReliefPitcher,76,235,34.51
+JustinDuchscherer,OAK,ReliefPitcher,75,190,29.28
+KikoCalero,OAK,ReliefPitcher,73,180,32.14
+ChadGaudin,OAK,ReliefPitcher,71,165,23.94
+LennyDiNardo,OAK,ReliefPitcher,76,195,27.45
+ScottDunn,OAK,ReliefPitcher,75,200,28.77
+HustonStreet,OAK,ReliefPitcher,72,190,23.58
+RonFlores,OAK,ReliefPitcher,71,190,27.56
+JayMarshall,OAK,ReliefPitcher,77,185,24.01
+MarcusMcBeth,OAK,ReliefPitcher,73,185,26.52
+JorgePosada,NYY,Catcher,74,205,35.54
+WilNieves,NYY,Catcher,71,190,29.43
+AndyPhillips,NYY,FirstBaseman,72,205,29.9
+DougMientkiewicz,NYY,FirstBaseman,74,206,32.7
+JoshPhelps,NYY,FirstBaseman,75,220,28.8
+MiguelCairo,NYY,SecondBaseman,73,208,32.82
+RobinsonCano,NYY,SecondBaseman,72,170,24.36
+DerekJeter,NYY,Shortstop,75,195,32.68
+AlexRodriguez,NYY,ThirdBaseman,75,210,31.59
+JohnnyDamon,NYY,Outfielder,74,190,33.32
+BobbyAbreu,NYY,Outfielder,72,211,32.97
+HidekiMatsui,NYY,Outfielder,74,230,32.72
+MelkyCabrera,NYY,Outfielder,71,170,22.55
+KevinThompson,NYY,Outfielder,70,185,27.45
+JasonGiambi,NYY,DesignatedHitter,75,230,36.14
+MikeMussina,NYY,StartingPitcher,74,185,38.23
+CarlPavano,NYY,StartingPitcher,77,241,31.14
+AndyPettitte,NYY,StartingPitcher,77,225,34.71
+DarrellRasner,NYY,StartingPitcher,75,210,26.13
+JeffKarstens,NYY,StartingPitcher,75,175,24.43
+HumbertoSanchez,NYY,StartingPitcher,78,230,23.76
+Chien-MingWang,NYY,StartingPitcher,75,200,26.92
+SeanHenn,NYY,ReliefPitcher,76,215,25.85
+ScottProctor,NYY,ReliefPitcher,73,198,30.16
+BrianBruney,NYY,ReliefPitcher,75,226,25.03
+ChrisBritton,NYY,ReliefPitcher,75,278,24.21
+T.J.Beam,NYY,ReliefPitcher,79,215,26.51
+JoseVeras,NYY,ReliefPitcher,77,230,26.36
+KyleFarnsworth,NYY,ReliefPitcher,76,240,30.88
+LuisVizcaino,NYY,ReliefPitcher,71,184,32.57
+MikeMyers,NYY,ReliefPitcher,75,219,37.68
+MarianoRivera,NYY,ReliefPitcher,74,170,37.25
+IvanRodriguez,DET,Catcher,69,218,35.25
+VanceWilson,DET,Catcher,71,190,33.95
+SeanCasey,DET,FirstBaseman,76,225,32.66
+ChrisShelton,DET,FirstBaseman,72,220,26.68
+OmarInfante,DET,SecondBaseman,72,176,25.18
+PlacidoPolanco,DET,SecondBaseman,70,190,31.39
+NeifiPerez,DET,SecondBaseman,72,197,33.74
+CarlosGuillen,DET,Shortstop,73,204,31.42
+RamonSantiago,DET,Shortstop,71,167,27.5
+TonyGiarratano,DET,Shortstop,72,180,24.25
+BrandonInge,DET,ThirdBaseman,71,195,29.78
+CraigMonroe,DET,Outfielder,73,220,30
+MagglioOrdo?ez,DET,Outfielder,72,215,33.09
+CurtisGranderson,DET,Outfielder,73,185,25.96
+BrentClevlen,DET,Outfielder,74,190,23.34
+MarcusThames,DET,Outfielder,74,205,29.98
+GarySheffield,DET,Outfielder,72,205,38.28
+MikeRabelo,DET,DesignatedHitter,73,200,27.12
+ZachMiner,DET,StartingPitcher,75,200,24.97
+JeremyBonderman,DET,StartingPitcher,74,210,24.34
+NateRobertson,DET,StartingPitcher,74,215,29.49
+JustinVerlander,DET,StartingPitcher,77,200,24.02
+VirgilVasquez,DET,StartingPitcher,75,205,24.73
+KennyRogers,DET,StartingPitcher,73,211,42.3
+MikeMaroth,DET,StartingPitcher,72,190,29.54
+FernandoRodney,DET,ReliefPitcher,71,208,29.95
+ChadDurbin,DET,ReliefPitcher,74,200,29.24
+JasonGrilli,DET,ReliefPitcher,77,210,30.3
+JoseMesa,DET,ReliefPitcher,75,232,40.77
+ToddJones,DET,ReliefPitcher,75,230,38.85
+JoelZumaya,DET,ReliefPitcher,75,210,22.31
+JordanTata,DET,ReliefPitcher,78,220,25.44
+AndrewMiller,DET,ReliefPitcher,78,210,21.78
+YormanBazardo,DET,ReliefPitcher,74,202,22.64
+WilfredoLedezma,DET,ReliefPitcher,76,212,26.11
+RomanColon,DET,ReliefPitcher,78,225,27.55
+EdwardCampusano,DET,ReliefPitcher,76,170,24.63
+ReneRivera,SEA,Catcher,70,190,23.58
+KenjiJohjima,SEA,Catcher,72,200,30.73
+RichieSexson,SEA,FirstBaseman,80,237,32.17
+BenBroussard,SEA,FirstBaseman,74,220,30.43
+JoseLopez,SEA,SecondBaseman,74,170,23.27
+JoseVidro,SEA,SecondBaseman,71,193,32.51
+YunieskyBetancourt,SEA,Shortstop,70,190,25.08
+OswaldoNavarro,SEA,Shortstop,72,150,22.41
+AdrianBeltre,SEA,ThirdBaseman,71,220,27.9
+RaulIbanez,SEA,Outfielder,74,200,34.74
+JoseGuillen,SEA,Outfielder,71,190,30.79
+JeremyReed,SEA,Outfielder,72,185,25.71
+WillieBloomquist,SEA,Outfielder,71,185,29.26
+AdamJones,SEA,Outfielder,74,200,21.58
+IchiroSuzuki,SEA,Outfielder,69,172,33.36
+MikeMorse,SEA,Outfielder,76,220,24.94
+FelixHernandez,SEA,StartingPitcher,75,225,20.9
+RyanFeierabend,SEA,StartingPitcher,75,190,21.52
+SeanWhite,SEA,StartingPitcher,76,195,25.85
+HoracioRamirez,SEA,StartingPitcher,73,219,27.27
+ChaBaek,SEA,StartingPitcher,76,190,26.75
+MiguelBatista,SEA,StartingPitcher,73,197,36.03
+JeffWeaver,SEA,StartingPitcher,77,200,30.52
+JarrodWashburn,SEA,StartingPitcher,73,195,32.55
+GeorgeSherrill,SEA,ReliefPitcher,72,210,29.86
+JulioMateo,SEA,ReliefPitcher,72,177,29.58
+J.J.Putz,SEA,ReliefPitcher,77,220,30.02
+ChrisReitsma,SEA,ReliefPitcher,77,235,29.16
+CesarJimenez,SEA,ReliefPitcher,71,180,22.3
+EricO'Flaherty,SEA,ReliefPitcher,74,195,22.06
+JonHuber,SEA,ReliefPitcher,74,195,25.65
+JakeWoods,SEA,ReliefPitcher,73,190,25.49
+SeanGreen,SEA,ReliefPitcher,78,230,27.86
+MarkLowe,SEA,ReliefPitcher,75,190,23.73
+JoshPaul,TB,Catcher,73,200,31.78
+DionerNavarro,TB,Catcher,70,190,23.06
+ShawnRiggans,TB,Catcher,74,190,26.6
+TyWigginton,TB,FirstBaseman,72,200,29.39
+BrendanHarris,TB,SecondBaseman,73,200,26.51
+JorgeCantu,TB,SecondBaseman,73,184,25.08
+BenZobrist,TB,Shortstop,75,200,25.76
+B.J.Upton,TB,ThirdBaseman,75,180,22.52
+CarlCrawford,TB,Outfielder,74,219,25.57
+RoccoBaldelli,TB,Outfielder,76,187,25.43
+GregNorton,TB,Outfielder,73,200,34.65
+ElijahDukes,TB,Outfielder,74,220,22.68
+DelmonYoung,TB,Outfielder,75,205,21.46
+JonnyGomes,TB,DesignatedHitter,73,205,26.27
+EdwinJackson,TB,StartingPitcher,75,190,23.47
+ScottKazmir,TB,StartingPitcher,72,170,23.1
+CaseyFossum,TB,StartingPitcher,73,160,29.14
+JaeSeo,TB,StartingPitcher,73,215,29.77
+J.P.Howell,TB,StartingPitcher,72,175,23.85
+TimCorcoran,TB,StartingPitcher,74,205,28.88
+JasonHammel,TB,StartingPitcher,78,200,24.49
+JamesShields,TB,StartingPitcher,76,214,25.19
+BrianStokes,TB,StartingPitcher,73,200,27.48
+JuanSalas,TB,ReliefPitcher,74,190,28.31
+JeffRidgway,TB,ReliefPitcher,75,180,26.54
+RuddyLugo,TB,ReliefPitcher,70,205,26.77
+Jae-KukRyu,TB,ReliefPitcher,75,220,23.75
+ChadOrvella,TB,ReliefPitcher,71,190,26.41
+DanMiceli,TB,ReliefPitcher,72,215,36.47
+SethMcClung,TB,ReliefPitcher,78,235,26.06
+JonSwitzer,TB,ReliefPitcher,75,191,27.55
+ShawnCamp,TB,ReliefPitcher,73,200,31.28
+ScottDohmann,TB,ReliefPitcher,73,181,29.04
+JasonLaRue,KC,Catcher,71,200,32.95
+JohnBuck,KC,Catcher,75,210,26.65
+RyanShealy,KC,FirstBaseman,77,240,27.5
+RossGload,KC,FirstBaseman,72,185,30.9
+EstebanGerman,KC,SecondBaseman,69,165,29.09
+MarkGrudzielanek,KC,SecondBaseman,73,190,36.67
+AngelSanchez,KC,SecondBaseman,74,185,23.44
+AngelBerroa,KC,Shortstop,72,175,29.09
+AndresBlanco,KC,Shortstop,70,155,22.89
+MarkTeahen,KC,ThirdBaseman,75,210,25.48
+JoeyGathright,KC,Outfielder,70,170,25.84
+DavidDeJesus,KC,Outfielder,72,175,27.2
+ShaneCosta,KC,Outfielder,72,220,25.22
+MitchMaier,KC,Outfielder,74,210,24.67
+ReggieSanders,KC,Outfielder,73,205,39.25
+EmilBrown,KC,Outfielder,74,200,32.17
+MikeSweeney,KC,DesignatedHitter,75,225,33.61
+JohnBale,KC,StartingPitcher,76,205,32.77
+LukeHudson,KC,StartingPitcher,75,195,29.83
+ScottElarton,KC,StartingPitcher,80,240,31.02
+OdalisPerez,KC,StartingPitcher,72,150,29.73
+GilMeche,KC,StartingPitcher,75,200,28.48
+NealMusser,KC,StartingPitcher,73,215,26.51
+BrianBannister,KC,StartingPitcher,74,202,26
+ZackGreinke,KC,StartingPitcher,74,200,23.36
+JorgeDeLaRosa,KC,StartingPitcher,73,190,25.9
+ToddWellemeyer,KC,ReliefPitcher,75,205,28.5
+JimmyGobble,KC,ReliefPitcher,75,190,25.62
+JoelPeralta,KC,ReliefPitcher,71,160,30.94
+RyanBraun,KC,ReliefPitcher,73,215,26.59
+JoakimSoria,KC,ReliefPitcher,75,185,22.78
+KenRay,KC,ReliefPitcher,74,200,32.26
+DavidRiske,KC,ReliefPitcher,74,190,30.35
+OctavioDotel,KC,ReliefPitcher,72,210,33.26
+JoeNelson,KC,ReliefPitcher,74,185,32.35
+GeraldLaird,TEX,Catcher,74,220,27.3
+MiguelOjeda,TEX,Catcher,74,190,32.08
+GuillermoQuiroz,TEX,Catcher,73,202,25.25
+ChrisStewart,TEX,Catcher,76,205,25.03
+MarkTeixeira,TEX,FirstBaseman,75,220,26.89
+IanKinsler,TEX,SecondBaseman,72,175,24.69
+JoaquinArias,TEX,Shortstop,73,160,22.44
+MichaelYoung,TEX,Shortstop,73,190,30.36
+HankBlalock,TEX,ThirdBaseman,73,200,26.27
+MarlonByrd,TEX,Outfielder,72,229,29.5
+BradWilkerson,TEX,Outfielder,72,206,29.75
+SammySosa,TEX,Outfielder,72,220,38.3
+KennyLofton,TEX,Outfielder,72,180,39.75
+FrankCatalanotto,TEX,Outfielder,71,195,32.84
+NelsonCruz,TEX,Outfielder,75,175,26.66
+JasonBotts,TEX,DesignatedHitter,77,250,26.6
+RobinsonTejeda,TEX,StartingPitcher,75,188,24.94
+JohnRheinecker,TEX,StartingPitcher,74,230,27.76
+EdinsonVolquez,TEX,StartingPitcher,73,190,23.66
+A.J.Murray,TEX,StartingPitcher,75,200,24.96
+BrandonMcCarthy,TEX,StartingPitcher,79,190,23.65
+VicentePadilla,TEX,StartingPitcher,74,219,29.42
+KevinMillwood,TEX,StartingPitcher,76,235,32.18
+JohnKoronka,TEX,StartingPitcher,73,180,26.66
+FrankFrancisco,TEX,ReliefPitcher,74,180,27.47
+FranciscoCruceta,TEX,ReliefPitcher,74,180,25.66
+AkinoriOtsuka,TEX,ReliefPitcher,72,200,35.13
+EricGagne,TEX,ReliefPitcher,74,234,31.15
+RonMahay,TEX,ReliefPitcher,74,185,35.67
+JoaquinBenoit,TEX,ReliefPitcher,75,220,29.6
+RickBauer,TEX,ReliefPitcher,78,223,30.14
+JoshRupe,TEX,ReliefPitcher,74,200,24.53
+WesLittleton,TEX,ReliefPitcher,74,210,24.49
+C.J.Wilson,TEX,ReliefPitcher,74,200,26.28
+ScottFeldman,TEX,ReliefPitcher,77,210,24.06
+GreggZaun,TOR,Catcher,70,190,35.88
+JasonPhillips,TOR,Catcher,73,177,30.42
+LyleOverbay,TOR,FirstBaseman,74,227,30.09
+RussAdams,TOR,SecondBaseman,73,180,26.5
+AaronHill,TOR,SecondBaseman,71,195,24.94
+JasonSmith,TOR,SecondBaseman,75,199,29.6
+JohnMcDonald,TOR,Shortstop,71,175,32.43
+RoyceClayton,TOR,Shortstop,72,185,37.16
+TroyGlaus,TOR,ThirdBaseman,77,240,30.57
+JohnHattig,TOR,ThirdBaseman,74,210,27.01
+ReedJohnson,TOR,Outfielder,70,180,30.23
+AlexRios,TOR,Outfielder,77,194,26.03
+VernonWells,TOR,Outfielder,73,225,28.23
+FrankThomas,TOR,DesignatedHitter,77,275,38.76
+AdamLind,TOR,DesignatedHitter,74,195,23.62
+ShaunMarcum,TOR,StartingPitcher,72,180,25.21
+CaseyJanssen,TOR,StartingPitcher,76,205,25.45
+GustavoChacin,TOR,StartingPitcher,71,193,26.24
+A.J.Burnett,TOR,StartingPitcher,76,230,30.15
+RoyHalladay,TOR,StartingPitcher,78,230,29.8
+JohnThomson,TOR,StartingPitcher,75,220,33.41
+TomoOhka,TOR,StartingPitcher,73,200,30.95
+B.J.Ryan,TOR,ReliefPitcher,78,249,31.17
+ScottDowns,TOR,ReliefPitcher,74,190,30.95
+BrianTallet,TOR,ReliefPitcher,79,208,29.44
+MattRoney,TOR,ReliefPitcher,75,245,27.14
+TracyThorpe,TOR,ReliefPitcher,76,250,26.21
+JeanMachi,TOR,ReliefPitcher,72,160,24.08
+BrandonLeague,TOR,ReliefPitcher,75,192,23.96
+DustinMcGowan,TOR,ReliefPitcher,75,220,24.94
+JasonFrasor,TOR,ReliefPitcher,70,170,29.56
+FranciscoRosario,TOR,ReliefPitcher,72,197,26.42
+DavisRomero,TOR,ReliefPitcher,70,155,23.92
+JeremyAccardo,TOR,ReliefPitcher,74,190,25.23
+MikeRedmond,MIN,Catcher,71,200,35.82
+JoeMauer,MIN,Catcher,76,220,23.87
+ChrisHeintz,MIN,Catcher,73,210,32.57
+JustinMorneau,MIN,FirstBaseman,76,228,25.79
+LuisCastillo,MIN,SecondBaseman,71,190,31.47
+AlexiCasilla,MIN,SecondBaseman,69,160,22.61
+AlejandroMachado,MIN,SecondBaseman,72,184,24.85
+JasonBartlett,MIN,Shortstop,72,180,27.33
+LuisRodriguez,MIN,ThirdBaseman,69,180,26.67
+JeffCirillo,MIN,ThirdBaseman,73,200,37.43
+NickPunto,MIN,ThirdBaseman,69,176,29.31
+JasonTyner,MIN,Outfielder,73,160,29.85
+MichaelCuddyer,MIN,Outfielder,74,222,27.93
+ToriiHunter,MIN,Outfielder,74,211,31.62
+LewFord,MIN,Outfielder,72,195,30.55
+JasonKubel,MIN,Outfielder,71,200,24.77
+JoshRabe,MIN,DesignatedHitter,74,210,28.38
+RondellWhite,MIN,DesignatedHitter,73,225,35.02
+RamonOrtiz,MIN,StartingPitcher,72,175,33.77
+JohanSantana,MIN,StartingPitcher,72,206,27.97
+CarlosSilva,MIN,StartingPitcher,76,240,27.85
+MattGarza,MIN,StartingPitcher,76,185,23.26
+BoofBonser,MIN,StartingPitcher,76,260,25.38
+FranciscoLiriano,MIN,StartingPitcher,74,185,23.35
+ScottBaker,MIN,StartingPitcher,76,221,25.45
+PatNeshek,MIN,ReliefPitcher,75,205,26.49
+GlenPerkins,MIN,ReliefPitcher,71,200,24
+JulioDePaula,MIN,ReliefPitcher,72,170,24.16
+JuanRincon,MIN,ReliefPitcher,71,201,28.1
+JesseCrain,MIN,ReliefPitcher,73,205,25.65
+MattGuerrier,MIN,ReliefPitcher,75,185,28.58
+JoeNathan,MIN,ReliefPitcher,76,205,32.27
+DennysReyes,MIN,ReliefPitcher,75,245,29.86
+BrayanPe?a,ATL,Catcher,71,220,25.14
+BrianMcCann,ATL,Catcher,75,210,23.03
+CraigWilson,ATL,FirstBaseman,74,220,30.25
+ChrisWoodward,ATL,SecondBaseman,72,185,30.67
+PeteOrr,ATL,SecondBaseman,73,175,27.73
+MartinPrado,ATL,SecondBaseman,73,170,23.34
+TonyPe?a,ATL,Shortstop,73,180,25.94
+EdgarRenteria,ATL,Shortstop,73,200,31.56
+ChipperJones,ATL,ThirdBaseman,76,210,34.85
+WillyAybar,ATL,ThirdBaseman,72,175,23.98
+JeffFrancoeur,ATL,Outfielder,76,220,23.14
+MattDiaz,ATL,Outfielder,73,206,28.99
+KellyJohnson,ATL,Outfielder,73,180,25.02
+AndruwJones,ATL,Outfielder,73,210,29.85
+RyanLangerhans,ATL,Outfielder,75,195,27.03
+ScottThorman,ATL,Outfielder,75,200,25.15
+T.J.Bohn,ATL,Outfielder,77,200,27.12
+TimHudson,ATL,StartingPitcher,73,164,31.63
+JonathanJohnson,ATL,StartingPitcher,72,180,32.62
+JohnSmoltz,ATL,StartingPitcher,75,220,39.79
+MikeHampton,ATL,StartingPitcher,70,195,34.47
+KyleDavies,ATL,StartingPitcher,74,205,23.47
+ChuckJames,ATL,StartingPitcher,72,170,25.31
+PhilStockman,ATL,ReliefPitcher,80,240,27.1
+MacayMcBride,ATL,ReliefPitcher,71,210,24.35
+JoeyDevine,ATL,ReliefPitcher,71,195,23.45
+PeterMoylan,ATL,ReliefPitcher,74,200,28.24
+MikeGonzalez,ATL,ReliefPitcher,74,205,28.77
+LanceCormier,ATL,ReliefPitcher,73,192,26.53
+BlaineBoyer,ATL,ReliefPitcher,75,190,25.64
+MannyAcosta,ATL,ReliefPitcher,76,170,25.83
+BobWickman,ATL,ReliefPitcher,73,240,38.06
+TanyonSturtze,ATL,ReliefPitcher,77,200,36.38
+OscarVillarreal,ATL,ReliefPitcher,72,205,25.27
+RafaelSoriano,ATL,ReliefPitcher,73,175,27.2
+ChadParonto,ATL,ReliefPitcher,77,250,31.59
+TylerYates,ATL,ReliefPitcher,76,220,29.56
+HenryBlanco,CHC,Catcher,71,224,35.5
+MichaelBarrett,CHC,Catcher,75,210,30.35
+GeovanySoto,CHC,Catcher,73,195,24.11
+ScottMoore,CHC,FirstBaseman,74,180,23.29
+DerrekLee,CHC,FirstBaseman,77,245,31.48
+RyanTheriot,CHC,SecondBaseman,71,175,27.23
+RonnyCedeno,CHC,Shortstop,72,180,24.07
+AramisRamirez,CHC,ThirdBaseman,73,215,28.68
+CesarIzturis,CHC,ThirdBaseman,69,175,27.05
+AlfonsoSoriano,CHC,Outfielder,73,180,31.15
+JacqueJones,CHC,Outfielder,70,195,31.85
+DaryleWard,CHC,Outfielder,74,230,31.68
+CliffFloyd,CHC,Outfielder,76,230,34.23
+MarkDeRosa,CHC,Outfielder,73,205,32.01
+MattMurton,CHC,Outfielder,73,215,25.41
+BuckCoats,CHC,Outfielder,75,195,24.73
+AngelPagan,CHC,Outfielder,73,180,25.66
+SeanMarshall,CHC,StartingPitcher,79,205,24.5
+CarlosMarmol,CHC,StartingPitcher,74,180,24.38
+RyanO'Malley,CHC,StartingPitcher,73,190,26.89
+JuanMateo,CHC,StartingPitcher,74,180,24.2
+RichHill,CHC,StartingPitcher,77,190,26.97
+AngelGuzman,CHC,StartingPitcher,75,190,25.21
+WadeMiller,CHC,StartingPitcher,74,220,30.46
+JasonMarquis,CHC,StartingPitcher,73,210,28.53
+CarlosZambrano,CHC,StartingPitcher,77,255,25.75
+TedLilly,CHC,StartingPitcher,73,190,31.15
+MarkPrior,CHC,StartingPitcher,77,230,26.48
+NealCotts,CHC,ReliefPitcher,74,200,26.93
+WillOhman,CHC,ReliefPitcher,74,205,29.55
+ScottEyre,CHC,ReliefPitcher,73,210,34.75
+KerryWood,CHC,ReliefPitcher,77,225,29.71
+RyanDempster,CHC,ReliefPitcher,74,215,29.83
+BobHowry,CHC,ReliefPitcher,77,220,33.57
+MikeWuertz,CHC,ReliefPitcher,75,205,28.21
+RobertoNovoa,CHC,ReliefPitcher,77,200,27.54
+ChrisSnyder,ARZ,Catcher,75,220,26.05
+MiguelMontero,ARZ,Catcher,71,197,23.64
+ConorJackson,ARZ,FirstBaseman,74,225,24.82
+RobbyHammock,ARZ,FirstBaseman,70,187,29.8
+TonyClark,ARZ,FirstBaseman,79,245,34.71
+OrlandoHudson,ARZ,SecondBaseman,72,185,29.22
+StephenDrew,ARZ,Shortstop,72,185,23.96
+AlbertoCallaspo,ARZ,Shortstop,70,175,23.87
+ChadTracy,ARZ,ThirdBaseman,74,200,26.77
+ChrisYoung,ARZ,Outfielder,74,180,23.49
+ScottHairston,ARZ,Outfielder,72,188,26.77
+CarlosQuentin,ARZ,Outfielder,73,225,24.51
+JeffDaVanon,ARZ,Outfielder,72,200,33.23
+EricByrnes,ARZ,Outfielder,74,210,31.04
+LivanHernandez,ARZ,StartingPitcher,74,245,32.02
+DougDavis,ARZ,StartingPitcher,76,213,31.44
+RandyJohnson,ARZ,StartingPitcher,82,231,43.47
+JuanCruz,ARZ,StartingPitcher,74,165,28.38
+BrandonWebb,ARZ,StartingPitcher,74,228,27.81
+EnriqueGonzalez,ARZ,StartingPitcher,70,210,24.57
+DanaEveland,ARZ,StartingPitcher,73,250,23.34
+BrandonMedders,ARZ,ReliefPitcher,73,191,27.09
+TonyPe?a,ARZ,ReliefPitcher,74,190,25.14
+DougSlaten,ARZ,ReliefPitcher,77,200,27.07
+EdgarGonzalez,ARZ,ReliefPitcher,72,215,24.02
+JoseValverde,ARZ,ReliefPitcher,76,254,27.6
+JorgeJulio,ARZ,ReliefPitcher,73,232,27.99
+BrandonLyon,ARZ,ReliefPitcher,73,180,27.56
+MiguelOlivo,FLA,Catcher,72,215,28.63
+MattTreanor,FLA,Catcher,74,220,30.99
+MikeJacobs,FLA,FirstBaseman,74,180,26.33
+DanUggla,FLA,SecondBaseman,71,200,26.97
+RobertAndino,FLA,Shortstop,72,170,22.85
+HanleyRamirez,FLA,Shortstop,75,195,23.19
+MiguelCabrera,FLA,ThirdBaseman,74,210,23.87
+AaronBoone,FLA,ThirdBaseman,74,200,33.98
+JoeBorchard,FLA,Outfielder,77,220,28.26
+AlfredoAmezaga,FLA,Outfielder,70,165,29.12
+CodyRoss,FLA,Outfielder,71,180,26.18
+JoshWillingham,FLA,Outfielder,73,200,28.03
+JeremyHermida,FLA,Outfielder,76,200,23.08
+EricReed,FLA,Outfielder,71,170,26.24
+ReggiAbercrombie,FLA,Outfielder,75,224,26.63
+RickyNolasco,FLA,StartingPitcher,74,220,24.21
+AnibalSanchez,FLA,StartingPitcher,72,180,23.01
+ScottOlsen,FLA,StartingPitcher,76,198,23.13
+JoshJohnson,FLA,StartingPitcher,79,240,23.08
+DontrelleWillis,FLA,StartingPitcher,76,239,25.13
+LoganKensing,FLA,ReliefPitcher,73,185,24.66
+SergioMitre,FLA,ReliefPitcher,76,210,26.03
+KevinGregg,FLA,ReliefPitcher,78,220,28.7
+TravisBowyer,FLA,ReliefPitcher,75,200,25.57
+RenyelPinto,FLA,ReliefPitcher,76,195,24.65
+RandyMessenger,FLA,ReliefPitcher,72,220,25.55
+YusmeiroPetit,FLA,ReliefPitcher,72,230,22.27
+CarlosMartinez,FLA,ReliefPitcher,73,170,24.76
+TaylorTankersley,FLA,ReliefPitcher,73,220,23.98
+HenryOwens,FLA,ReliefPitcher,75,230,27.85
+JoseGarcia,FLA,ReliefPitcher,71,165,22.14
+MattLindstrom,FLA,ReliefPitcher,76,205,27.05
+JavierValentin,CIN,Catcher,70,192,31.45
+ChadMoeller,CIN,Catcher,75,210,32.03
+DavidRoss,CIN,Catcher,74,205,29.95
+JoeyVotto,CIN,FirstBaseman,75,200,23.47
+ScottHatteberg,CIN,FirstBaseman,73,210,37.21
+BrandonPhillips,CIN,SecondBaseman,71,185,25.67
+JuanCastro,CIN,Shortstop,71,195,34.69
+AlexGonzalez,CIN,Shortstop,72,202,30.04
+MarkBellhorn,CIN,ThirdBaseman,73,205,32.52
+EdwinEncarnacion,CIN,ThirdBaseman,73,195,24.15
+JeffKeppinger,CIN,ThirdBaseman,72,180,26.86
+NorrisHopper,CIN,Outfielder,69,200,27.94
+ChrisDenorfia,CIN,Outfielder,73,185,26.63
+AdamDunn,CIN,Outfielder,78,240,27.31
+BubbaCrosby,CIN,Outfielder,71,185,30.55
+JeffConine,CIN,Outfielder,73,220,40.68
+KenGriffeyJr.,CIN,Outfielder,75,205,37.27
+JoshHamilton,CIN,Outfielder,76,205,25.78
+RyanFreel,CIN,Outfielder,70,180,30.98
+KyleLohse,CIN,StartingPitcher,74,201,28.41
+BronsonArroyo,CIN,StartingPitcher,77,190,30.01
+EricMilton,CIN,StartingPitcher,75,208,31.57
+AaronHarang,CIN,StartingPitcher,79,240,28.81
+KirkSaarloos,CIN,StartingPitcher,72,,27.77
+ElizardoRamirez,CIN,StartingPitcher,72,180,24.09
+ToddCoffey,CIN,ReliefPitcher,77,230,26.47
+BrianShackelford,CIN,ReliefPitcher,73,195,30.5
+BillBray,CIN,ReliefPitcher,75,215,23.74
+BobbyLivingston,CIN,ReliefPitcher,75,190,24.49
+MattBelisle,CIN,ReliefPitcher,75,195,26.73
+GaryMajewski,CIN,ReliefPitcher,73,215,27.01
+MikeStanton,CIN,ReliefPitcher,73,215,39.75
+BradSalmon,CIN,ReliefPitcher,76,220,27.16
+JaredBurton,CIN,ReliefPitcher,77,220,25.74
+DavidWeathers,CIN,ReliefPitcher,75,230,37.43
+RhealCormier,CIN,ReliefPitcher,70,195,39.85
+YorvitTorrealba,COL,Catcher,71,190,28.62
+ChrisIannetta,COL,Catcher,71,195,23.9
+AlvinColina,COL,Catcher,75,209,25.18
+ToddHelton,COL,FirstBaseman,74,204,33.53
+JameyCarroll,COL,SecondBaseman,69,170,33.03
+KazMatsui,COL,SecondBaseman,70,185,31.35
+TroyTulowitzki,COL,Shortstop,75,205,22.39
+ClintBarmes,COL,Shortstop,72,175,27.99
+GarrettAtkins,COL,ThirdBaseman,75,210,27.22
+RyanSpilborghs,COL,Outfielder,73,190,27.49
+CorySullivan,COL,Outfielder,72,180,27.53
+JeffSalazar,COL,Outfielder,72,180,26.26
+WillyTaveras,COL,Outfielder,72,160,25.18
+MattHolliday,COL,Outfielder,76,235,27.12
+BradHawpe,COL,Outfielder,75,200,27.69
+JeffBaker,COL,Outfielder,74,210,25.69
+JavyLopez,COL,DesignatedHitter,75,224,36.32
+Byung-HyunKim,COL,StartingPitcher,69,180,28.11
+RodrigoLopez,COL,StartingPitcher,73,190,31.21
+BrianLawrence,COL,StartingPitcher,72,197,30.8
+JoshFogg,COL,StartingPitcher,72,203,30.21
+AaronCook,COL,StartingPitcher,75,205,28.06
+DennyBautista,COL,StartingPitcher,77,170,26.52
+UbaldoJimenez,COL,StartingPitcher,76,200,23.1
+JasonHirsh,COL,StartingPitcher,80,250,25.02
+JeffFrancis,COL,StartingPitcher,77,200,26.14
+TaylorBuchholz,COL,StartingPitcher,76,220,25.38
+RyanSpeier,COL,ReliefPitcher,79,200,27.6
+RamonRamirez,COL,ReliefPitcher,71,190,25.5
+MannyCorpas,COL,ReliefPitcher,75,170,24.24
+JuanMorillo,COL,ReliefPitcher,73,190,23.32
+BrianFuentes,COL,ReliefPitcher,76,220,31.56
+LaTroyHawkins,COL,ReliefPitcher,77,215,34.19
+TomMartin,COL,ReliefPitcher,73,206,36.78
+JeremyAffeldt,COL,ReliefPitcher,76,215,27.73
+PaulLoDuca,NYM,Catcher,70,185,34.88
+RamonCastro,NYM,Catcher,75,235,31
+JulioFranco,NYM,FirstBaseman,73,188,48.52
+CarlosDelgado,NYM,FirstBaseman,75,230,34.68
+JoseValentin,NYM,SecondBaseman,70,195,37.38
+AndersonHernandez,NYM,SecondBaseman,69,168,24.33
+DamionEasley,NYM,Shortstop,71,190,37.3
+JoseReyes,NYM,Shortstop,72,160,23.72
+DavidWright,NYM,ThirdBaseman,72,200,24.19
+BenJohnson,NYM,Outfielder,73,200,25.7
+EndyChavez,NYM,Outfielder,70,189,29.06
+DavidNewhan,NYM,Outfielder,70,180,33.48
+CarlosBeltran,NYM,Outfielder,73,190,29.85
+ShawnGreen,NYM,Outfielder,76,200,34.3
+MoisesAlou,NYM,Outfielder,75,220,40.66
+LastingsMilledge,NYM,Outfielder,72,187,21.9
+AlaySoler,NYM,StartingPitcher,73,240,27.39
+MikePelfrey,NYM,StartingPitcher,79,190,23.13
+PedroMartinez,NYM,StartingPitcher,71,180,35.35
+TomGlavine,NYM,StartingPitcher,72,185,40.93
+ChanHoPark,NYM,StartingPitcher,74,210,33.67
+OrlandoHernandez,NYM,StartingPitcher,74,220,37.39
+DaveWilliams,NYM,StartingPitcher,74,219,27.97
+OliverPerez,NYM,StartingPitcher,72,190,25.54
+JohnMaine,NYM,StartingPitcher,76,193,25.81
+MarcosCarvajal,NYM,ReliefPitcher,76,175,22.53
+AmbiorixBurgos,NYM,ReliefPitcher,72,180,22.86
+JasonVargas,NYM,ReliefPitcher,72,215,24.07
+JonAdkins,NYM,ReliefPitcher,71,210,29.5
+JuanPadilla,NYM,ReliefPitcher,72,200,30.03
+DuanerSanchez,NYM,ReliefPitcher,72,190,27.38
+PedroFeliciano,NYM,ReliefPitcher,70,185,30.51
+AaronHeilman,NYM,ReliefPitcher,77,220,28.3
+JorgeSosa,NYM,ReliefPitcher,74,170,29.84
+ScottSchoeneweis,NYM,ReliefPitcher,72,195,33.41
+GuillermoMota,NYM,ReliefPitcher,76,205,33.6
+BillyWagner,NYM,ReliefPitcher,71,195,35.6
+PhilipHumber,NYM,ReliefPitcher,76,210,24.19
+BradAusmus,HOU,Catcher,71,190,37.88
+HumbertoQuintero,HOU,Catcher,73,190,27.56
+HectorGimenez,HOU,Catcher,70,180,24.42
+LanceBerkman,HOU,FirstBaseman,73,220,31.05
+MikeLamb,HOU,FirstBaseman,73,190,31.56
+MarkLoretta,HOU,SecondBaseman,72,186,35.55
+CraigBiggio,HOU,SecondBaseman,71,185,41.21
+BrooksConrad,HOU,SecondBaseman,71,190,27.12
+ChrisBurke,HOU,SecondBaseman,71,180,26.97
+EricBruntlett,HOU,SecondBaseman,72,190,28.92
+AdamEverett,HOU,Shortstop,72,170,30.06
+MorganEnsberg,HOU,ThirdBaseman,74,210,31.51
+CarlosLee,HOU,Outfielder,74,240,30.69
+JasonLane,HOU,Outfielder,74,220,30.19
+OrlandoPalmeiro,HOU,Outfielder,71,180,38.11
+LukeScott,HOU,Outfielder,72,210,28.68
+CharltonJimerson,HOU,Outfielder,75,210,27.44
+FernandoNieve,HOU,StartingPitcher,72,195,24.63
+WandyRodriguez,HOU,StartingPitcher,71,160,28.11
+BrandonBacke,HOU,StartingPitcher,72,180,28.9
+MattAlbers,HOU,StartingPitcher,72,205,24.11
+WoodyWilliams,HOU,StartingPitcher,72,200,40.53
+RoyOswalt,HOU,StartingPitcher,72,185,29.5
+JasonJennings,HOU,StartingPitcher,74,245,28.62
+MiguelAsencio,HOU,ReliefPitcher,74,190,26.42
+BradLidge,HOU,ReliefPitcher,77,210,30.18
+TreverMiller,HOU,ReliefPitcher,75,200,33.75
+DavidBorkowski,HOU,ReliefPitcher,73,200,30.06
+DanWheeler,HOU,ReliefPitcher,75,222,29.22
+PaulEstrada,HOU,ReliefPitcher,73,215,24.47
+LincolnHoldzkom,HOU,ReliefPitcher,76,240,24.94
+ChrisSampson,HOU,ReliefPitcher,72,170,28.77
+ChadQualls,HOU,ReliefPitcher,77,220,28.54
+EzequielAstacio,HOU,ReliefPitcher,75,156,27.32
+MikeLieberthal,LA,Catcher,72,190,35.12
+RussellMartin,LA,Catcher,71,202,24.04
+OlmedoSaenz,LA,FirstBaseman,71,221,36.39
+JamesLoney,LA,FirstBaseman,75,200,22.81
+NomarGarciaparra,LA,FirstBaseman,72,190,33.6
+JeffKent,LA,SecondBaseman,73,210,38.98
+RamonMartinez,LA,SecondBaseman,73,190,34.39
+MarlonAnderson,LA,SecondBaseman,71,200,33.15
+RafaelFurcal,LA,Shortstop,70,165,29.35
+WilsonBetemit,LA,ThirdBaseman,75,190,26.59
+AndyLaRoche,LA,ThirdBaseman,71,185,23.46
+MattKemp,LA,Outfielder,76,230,22.43
+AndreEthier,LA,Outfielder,73,208,24.89
+DelwynYoung,LA,Outfielder,68,209,24.67
+JasonRepko,LA,Outfielder,71,175,26.17
+JuanPierre,LA,Outfielder,72,180,29.54
+LuisGonzalez,LA,Outfielder,74,200,39.49
+JasonSchmidt,LA,StartingPitcher,77,205,34.08
+RandyWolf,LA,StartingPitcher,72,200,30.52
+BradPenny,LA,StartingPitcher,76,250,28.77
+DerekLowe,LA,StartingPitcher,78,210,33.75
+MarkHendrickson,LA,StartingPitcher,81,230,32.69
+ChadBillingsley,LA,StartingPitcher,72,244,22.59
+TakashiSaito,LA,ReliefPitcher,73,202,37.04
+JonathanBroxton,LA,ReliefPitcher,76,240,22.7
+Hong-ChihKuo,LA,ReliefPitcher,72,200,25.6
+EricStults,LA,ReliefPitcher,72,215,27.23
+Chin-HuiTsao,LA,ReliefPitcher,74,177,25.74
+TimHamulack,LA,ReliefPitcher,76,210,30.29
+YhencyBrazoban,LA,ReliefPitcher,73,170,26.72
+BrettTomko,LA,ReliefPitcher,76,215,33.9
+JoeBeimel,LA,ReliefPitcher,75,217,29.86
+ElmerDessens,LA,ReliefPitcher,70,198,36.13
+RyanBudde,PHI,Catcher,71,200,27.54
+RodBarajas,PHI,Catcher,74,220,31.49
+CarlosRuiz,PHI,Catcher,72,170,28.1
+ChrisCoste,PHI,Catcher,73,200,34.07
+RyanHoward,PHI,FirstBaseman,76,230,27.28
+WesHelms,PHI,FirstBaseman,76,231,30.8
+ChaseUtley,PHI,SecondBaseman,73,183,28.2
+DannySandoval,PHI,SecondBaseman,71,192,27.9
+JimmyRollins,PHI,Shortstop,68,167,28.26
+AbrahamNu?ez,PHI,ThirdBaseman,71,190,30.96
+MichaelBourn,PHI,Outfielder,71,180,24.18
+ChrisRoberson,PHI,Outfielder,74,180,27.52
+JaysonWerth,PHI,Outfielder,77,215,27.78
+ShaneVictorino,PHI,Outfielder,69,160,26.25
+AaronRowand,PHI,Outfielder,72,205,29.5
+PatBurrell,PHI,Outfielder,76,223,30.39
+GregDobbs,PHI,DesignatedHitter,73,205,28.66
+ColeHamels,PHI,StartingPitcher,75,175,23.18
+AlfredoSimon,PHI,StartingPitcher,76,170,25.81
+ScottMathieson,PHI,StartingPitcher,75,190,23.01
+FreddyGarcia,PHI,StartingPitcher,76,240,31.72
+JamieMoyer,PHI,StartingPitcher,72,175,44.28
+JonLieber,PHI,StartingPitcher,74,230,36.91
+BrettMyers,PHI,StartingPitcher,76,223,26.54
+AdamEaton,PHI,StartingPitcher,74,196,29.27
+GeoffGeary,PHI,ReliefPitcher,72,167,30.51
+ClayCondrey,PHI,ReliefPitcher,75,195,31.28
+RyanMadson,PHI,ReliefPitcher,78,190,26.51
+AntonioAlfonseca,PHI,ReliefPitcher,77,250,34.87
+TomGordon,PHI,ReliefPitcher,70,190,39.28
+BrianSanches,PHI,ReliefPitcher,72,190,28.56
+JimEdWarden,PHI,ReliefPitcher,79,190,27.82
+AndersonGarcia,PHI,ReliefPitcher,74,170,25.94
+EudeBrito,PHI,ReliefPitcher,71,160,28.53
+FabioCastro,PHI,ReliefPitcher,68,150,22.11
+MattSmith,PHI,ReliefPitcher,77,225,27.71
+DamianMiller,MLW,Catcher,75,220,37.38
+JohnnyEstrada,MLW,Catcher,71,209,30.67
+MikeRivera,MLW,Catcher,72,210,30.48
+J.D.Closser,MLW,Catcher,70,176,27.12
+PrinceFielder,MLW,FirstBaseman,72,260,22.81
+RickieWeeks,MLW,SecondBaseman,72,195,24.46
+TonyGraffanino,MLW,SecondBaseman,73,190,34.73
+CraigCounsell,MLW,Shortstop,72,184,36.53
+J.J.Hardy,MLW,Shortstop,74,180,24.53
+BillHall,MLW,Shortstop,72,195,27.17
+VinnyRottino,MLW,ThirdBaseman,72,195,26.9
+CoreyKoskie,MLW,ThirdBaseman,75,219,33.67
+KevinMench,MLW,Outfielder,72,225,29.14
+GeoffJenkins,MLW,Outfielder,73,212,32.61
+BradyClark,MLW,Outfielder,74,202,33.87
+TonyGwynnJr.,MLW,Outfielder,72,185,24.41
+CoreyHart,MLW,Outfielder,78,200,24.94
+GabeGross,MLW,Outfielder,75,209,27.36
+LaynceNix,MLW,Outfielder,72,200,26.33
+DrewAnderson,MLW,Outfielder,74,195,25.72
+ClaudioVargas,MLW,StartingPitcher,75,228,28.7
+ChrisCapuano,MLW,StartingPitcher,75,210,28.53
+BenHendrickson,MLW,StartingPitcher,76,190,26.07
+DaveBush,MLW,StartingPitcher,74,212,27.31
+CarlosVillanueva,MLW,StartingPitcher,74,190,23.26
+BenSheets,MLW,StartingPitcher,73,218,28.62
+JeffSuppan,MLW,StartingPitcher,74,220,32.16
+BrianShouse,MLW,ReliefPitcher,71,190,38.43
+FranciscoCordero,MLW,ReliefPitcher,74,235,31.81
+DerrickTurnbow,MLW,ReliefPitcher,75,210,29.1
+MattWise,MLW,ReliefPitcher,76,200,31.28
+GrantBalfour,MLW,ReliefPitcher,74,188,29.17
+DennisSarfate,MLW,ReliefPitcher,76,210,25.89
+JoseCapellan,MLW,ReliefPitcher,76,235,26.13
+GregAquino,MLW,ReliefPitcher,73,188,29.13
+JoshBard,SD,Catcher,75,215,28.92
+RobBowen,SD,Catcher,75,216,26.01
+AdrianGonzalez,SD,FirstBaseman,74,220,24.81
+MarcusGiles,SD,SecondBaseman,68,180,28.79
+ToddWalker,SD,SecondBaseman,72,185,33.77
+GeoffBlum,SD,Shortstop,75,200,33.85
+KhalilGreene,SD,Shortstop,71,210,27.36
+PaulMcAnulty,SD,Outfielder,70,220,26.01
+TerrmelSledge,SD,Outfielder,72,185,29.95
+JackCust,SD,Outfielder,73,231,28.12
+JoseCruzJr.,SD,Outfielder,72,210,32.87
+RussellBranyan,SD,Outfielder,75,195,31.2
+MikeCameron,SD,Outfielder,74,200,34.14
+BrianGiles,SD,Outfielder,70,205,36.11
+KevinKouzmanoff,SD,DesignatedHitter,73,200,25.6
+MikeThompson,SD,StartingPitcher,76,200,26.31
+ClayHensley,SD,StartingPitcher,71,190,27.5
+ChrisYoung,SD,StartingPitcher,82,250,27.77
+GregMaddux,SD,StartingPitcher,72,185,40.88
+JakePeavy,SD,StartingPitcher,73,180,25.75
+ScottCassidy,SD,ReliefPitcher,74,170,31.41
+ScottStrickland,SD,ReliefPitcher,71,180,30.84
+ScottLinebrink,SD,ReliefPitcher,75,208,30.57
+DougBrocail,SD,ReliefPitcher,77,235,39.79
+TrevorHoffman,SD,ReliefPitcher,72,215,39.38
+HeathBell,SD,ReliefPitcher,74,244,29.42
+RoyceRing,SD,ReliefPitcher,72,220,26.19
+ClaMeredith,SD,ReliefPitcher,73,185,23.74
+AndrewBrown,SD,ReliefPitcher,78,230,26.03
+MikeAdams,SD,ReliefPitcher,77,190,28.59
+JustinHampson,SD,ReliefPitcher,73,200,26.77
+KevinCameron,SD,ReliefPitcher,73,180,27.21
+RyanKetchner,SD,ReliefPitcher,73,190,24.87
+BrianSchneider,WAS,Catcher,73,196,30.26
+JesusFlores,WAS,Catcher,73,180,22.34
+LarryBroadway,WAS,FirstBaseman,76,230,26.2
+NickJohnson,WAS,FirstBaseman,75,224,28.45
+BernieCastro,WAS,SecondBaseman,70,160,27.63
+JoshWilson,WAS,Shortstop,73,178,25.93
+CristianGuzman,WAS,Shortstop,72,205,28.94
+FelipeLopez,WAS,Shortstop,73,185,26.8
+RyanZimmerman,WAS,ThirdBaseman,75,210,22.42
+NookLogan,WAS,Outfielder,74,180,27.26
+RyanChurch,WAS,Outfielder,73,190,28.38
+KoryCasto,WAS,Outfielder,73,200,25.23
+MikeRestovich,WAS,Outfielder,76,257,28.16
+AlexEscobar,WAS,Outfielder,73,190,28.48
+AustinKearns,WAS,Outfielder,75,220,26.78
+ChrisSnelling,WAS,Outfielder,70,165,25.24
+BillyTraber,WAS,StartingPitcher,77,205,27.45
+TimRedding,WAS,StartingPitcher,72,200,29.05
+JohnPatterson,WAS,StartingPitcher,77,208,29.08
+ShawnHill,WAS,StartingPitcher,74,185,25.84
+JoelHanrahan,WAS,StartingPitcher,75,215,25.4
+MikeO'Connor,WAS,StartingPitcher,75,170,26.54
+EmilianoFruto,WAS,ReliefPitcher,75,235,22.73
+ChrisSchroder,WAS,ReliefPitcher,75,210,28.53
+BrettCampbell,WAS,ReliefPitcher,72,170,25.37
+BeltranPerez,WAS,ReliefPitcher,74,180,25.35
+LevaleSpeigner,WAS,ReliefPitcher,71,170,26.43
+JasonBergmann,WAS,ReliefPitcher,76,190,25.43
+SaulRivera,WAS,ReliefPitcher,71,150,29.23
+ChrisBooker,WAS,ReliefPitcher,75,230,30.22
+MicahBowie,WAS,ReliefPitcher,76,203,32.3
+JonRauch,WAS,ReliefPitcher,83,260,28.42
+JeromeWilliams,WAS,ReliefPitcher,75,246,25.24
+LuisAyala,WAS,ReliefPitcher,74,186,29.13
+RyanWagner,WAS,ReliefPitcher,76,210,24.63
+ChadCordero,WAS,ReliefPitcher,72,198,24.95
+HumbertoCota,PIT,Catcher,72,210,28.06
+RonnyPaulino,PIT,Catcher,75,215,25.86
+AdamLaRoche,PIT,FirstBaseman,75,180,27.32
+RyanDoumit,PIT,FirstBaseman,72,200,25.91
+BradEldred,PIT,FirstBaseman,77,245,26.63
+JoseCastillo,PIT,SecondBaseman,73,200,25.95
+JackWilson,PIT,Shortstop,72,192,29.17
+FreddySanchez,PIT,ThirdBaseman,70,192,29.19
+JasonBay,PIT,Outfielder,74,200,28.44
+JoseBautista,PIT,Outfielder,72,192,26.36
+XavierNady,PIT,Outfielder,74,205,28.29
+JodyGerut,PIT,Outfielder,72,190,29.45
+NateMcLouth,PIT,Outfielder,71,186,25.34
+ChrisDuffy,PIT,Outfielder,70,170,26.86
+RajaiDavis,PIT,Outfielder,71,197,26.36
+ShaneYouman,PIT,StartingPitcher,76,219,27.39
+YoslanHerrera,PIT,StartingPitcher,74,200,25.84
+JoshShortslef,PIT,StartingPitcher,76,220,25.08
+ZachDuke,PIT,StartingPitcher,74,207,23.87
+PaulMaholm,PIT,StartingPitcher,74,225,24.68
+TomGorzelanny,PIT,StartingPitcher,74,207,24.64
+ShawnChacon,PIT,StartingPitcher,75,212,29.19
+TonyArmasJr.,PIT,StartingPitcher,75,225,28.84
+IanSnell,PIT,StartingPitcher,71,170,25.33
+SeanBurnett,PIT,StartingPitcher,71,190,24.45
+JohnGrabow,PIT,ReliefPitcher,74,210,28.32
+MartyMcLeary,PIT,ReliefPitcher,77,230,32.34
+SalomonTorres,PIT,ReliefPitcher,71,210,34.97
+DamasoMarte,PIT,ReliefPitcher,74,200,32.04
+MattCapps,PIT,ReliefPitcher,75,238,23.49
+JoshSharpless,PIT,ReliefPitcher,77,234,26.09
+BryanBullington,PIT,ReliefPitcher,76,222,26.41
+JonahBayliss,PIT,ReliefPitcher,74,200,26.55
+BrianRogers,PIT,ReliefPitcher,76,190,24.62
+JuanPerez,PIT,ReliefPitcher,72,170,28.49
+BengieMolina,SF,Catcher,71,220,32.61
+EliezerAlfonzo,SF,Catcher,72,223,28.06
+LanceNiekro,SF,FirstBaseman,75,210,28.08
+MarkSweeney,SF,FirstBaseman,73,215,37.34
+RayDurham,SF,SecondBaseman,68,196,35.25
+KevinFrandsen,SF,SecondBaseman,72,175,24.77
+OmarVizquel,SF,Shortstop,69,175,39.85
+RichAurilia,SF,ThirdBaseman,73,189,35.49
+PedroFeliz,SF,ThirdBaseman,73,205,31.84
+ToddLinden,SF,Outfielder,75,210,26.67
+DaveRoberts,SF,Outfielder,70,180,34.75
+JasonEllison,SF,Outfielder,70,180,28.91
+RandyWinn,SF,Outfielder,74,197,32.73
+RyanKlesko,SF,Outfielder,75,220,35.72
+BarryBonds,SF,Outfielder,74,228,42.6
+FredLewis,SF,Outfielder,74,190,26.22
+KelynAcosta,SF,StartingPitcher,73,204,21.85
+JonathanSanchez,SF,StartingPitcher,74,165,24.28
+MattCain,SF,StartingPitcher,75,216,22.41
+MattMorris,SF,StartingPitcher,77,220,32.56
+RussOrtiz,SF,StartingPitcher,73,208,32.74
+NoahLowry,SF,StartingPitcher,74,210,26.39
+BarryZito,SF,StartingPitcher,76,215,28.8
+VinnieChulk,SF,ReliefPitcher,74,195,28.2
+KevinCorreia,SF,ReliefPitcher,75,200,26.52
+SteveKline,SF,ReliefPitcher,73,215,34.52
+ArmandoBenitez,SF,ReliefPitcher,76,229,34.32
+ScottMunter,SF,ReliefPitcher,78,240,26.98
+JackTaschner,SF,ReliefPitcher,75,207,28.86
+BrianWilson,SF,ReliefPitcher,73,205,24.96
+MerkinValdez,SF,ReliefPitcher,77,208,25.3
+BradHennessey,SF,ReliefPitcher,74,185,27.06
+BillySadler,SF,ReliefPitcher,72,190,25.44
+PatMisch,SF,ReliefPitcher,74,170,25.53
+GaryBennett,STL,Catcher,72,208,34.87
+YadierMolina,STL,Catcher,71,225,24.63
+JohnNelson,STL,FirstBaseman,73,190,27.99
+AlbertPujols,STL,FirstBaseman,75,225,27.12
+AdamKennedy,STL,SecondBaseman,73,185,31.14
+AaronMiles,STL,SecondBaseman,67,180,30.21
+DavidEckstein,STL,Shortstop,67,165,32.11
+ScottRolen,STL,ThirdBaseman,76,240,31.91
+ScottSpiezio,STL,ThirdBaseman,74,220,34.44
+JimEdmonds,STL,Outfielder,73,212,36.68
+SoTaguchi,STL,Outfielder,70,163,37.66
+JuanEncarnacion,STL,Outfielder,75,215,30.98
+SkipSchumaker,STL,Outfielder,70,175,27.07
+JohnRodriguez,STL,Outfielder,72,205,29.11
+ChrisDuncan,STL,Outfielder,77,210,25.82
+AdamWainwright,STL,StartingPitcher,79,205,25.5
+MarkMulder,STL,StartingPitcher,78,208,29.57
+AnthonyReyes,STL,StartingPitcher,74,215,25.37
+RyanFranklin,STL,StartingPitcher,75,180,33.99
+KipWells,STL,StartingPitcher,75,200,29.86
+ChrisCarpenter,STL,StartingPitcher,78,230,31.84
+RussSpringer,STL,ReliefPitcher,76,211,38.31
+JasonIsringhausen,STL,ReliefPitcher,75,230,34.48
+RicardoRincon,STL,ReliefPitcher,69,190,36.88
+BradenLooper,STL,ReliefPitcher,75,220,32.34
+RandyFlores,STL,ReliefPitcher,72,180,31.58
+JoshHancock,STL,ReliefPitcher,75,205,28.89
+BradThompson,STL,ReliefPitcher,73,190,25.08
+TylerJohnson,STL,ReliefPitcher,74,180,25.73
+ChrisNarveson,STL,ReliefPitcher,75,205,25.19
+RandyKeisler,STL,ReliefPitcher,75,190,31.01
+JoshKinney,STL,ReliefPitcher,73,195,27.92
